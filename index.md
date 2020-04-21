@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Welcome to Data & AI blog
+## Welcome to ankitrathi.com
