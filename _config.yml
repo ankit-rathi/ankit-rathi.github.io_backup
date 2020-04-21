@@ -10,4 +10,7 @@ title: ankitrathi.com
 description: An alternate to ankitrathi.com
 github_username: ankit-rathi
 
+header_pages:
+ - about.md
+
 theme: minima
