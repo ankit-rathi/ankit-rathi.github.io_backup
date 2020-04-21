@@ -10,6 +10,9 @@ title: ankitrathi.com
 description: An alternate to ankitrathi.com
 github_username: ankit-rathi
 
+include:
+  - _pages
+
 header_pages:
  - about.md
 
