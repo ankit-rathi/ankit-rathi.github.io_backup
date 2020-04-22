@@ -37,21 +37,21 @@ I write blog-posts on various topics of Data & AI field, check my latest posts [
 
 
 ## My Portfolio
-- [LinkedIn](https://www.linkedin.com/in/ankitrathi/)
-- [YouTube](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)
-- [GitHub](https://github.com/ankit-rathi)
-- [Kaggle](https://www.kaggle.com/ankitrathi/competitions)
-- [VisualCV](https://visualcv.com/ankit-rathi)
-- [SlideShare](https://slideshare.net/ankitrathi)
-- [Twitter](https://twitter.com/rathiankit)
-- [Instagram](https://instagram.com/ankitrathi/)
+- LinkedIn [>>](https://www.linkedin.com/in/ankitrathi/)
+- YouTube [>>](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)
+- GitHub [>>](https://github.com/ankit-rathi)
+- Kaggle [>>](https://www.kaggle.com/ankitrathi/competitions)
+- VisualCV [>>](https://visualcv.com/ankit-rathi)
+- SlideShare [>>](https://slideshare.net/ankitrathi)
+- Twitter [>>](https://twitter.com/rathiankit)
+- Instagram [>>](https://instagram.com/ankitrathi/)
 
 ## Book Store
-- DS/AI Self-Starter Handbook [NotionPress](https://notionpress.com/read/ds-ai-self-starter-handbook)/[Amazon](https://www.amazon.com/dp/1079189262)/[Kindle](https://www.amazon.com/dp/B07VDJ7PHD)
-- Probability & Statistics for Data Science [NotionPress](https://notionpress.com/read/probability-statistics-for-data-science)/[Amazon](https://www.amazon.com/dp/1795009047)/[Kindle](https://www.amazon.com/dp/B07N18VT5C)
+- DS/AI Self-Starter Handbook ([NotionPress](https://notionpress.com/read/ds-ai-self-starter-handbook)/[Amazon](https://www.amazon.com/dp/1079189262)/[Kindle](https://www.amazon.com/dp/B07VDJ7PHD))
+- Probability & Statistics for Data Science ([NotionPress](https://notionpress.com/read/probability-statistics-for-data-science)/[Amazon](https://www.amazon.com/dp/1795009047)/[Kindle](https://www.amazon.com/dp/B07N18VT5C))
 
 ## My Talks
-- NSUT 2020 [GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-AIML-on-Cloud-NSUT.pdf)/[]()
+- NSUT 2020 [GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-AIML-on-Cloud-NSUT.pdf)
 - PyData 2019 [GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/PyData2019_ML_Opacity.pdf)/[YouTube](https://www.youtube.com/watch?v=bAoJnCeKFZA&)
 - Kaggle Days 2019 [GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-KaggleDaysTalk.pdf)
 - Amity 2019 [GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-Guest_Lecture_Amity.pdf)
@@ -64,6 +64,6 @@ Ankit's work at SITA aero has revolved around building FlightPredictor product &
 
 Ankit is a well-known author for various publications (Data Deft, Towards Data Science, Analytics Vidhya etc) on Medium where he actively contributes by writing blog-posts on concepts & latest trends in Data Science. He is followed by 25K+ data science practitioners & enthusiasts on LinkedIn.
 
-Specialties: Data Science, Data Architecture, Data Strategy, Big Data, Cloud Computing
+Specialties: `Data Science, Data Architecture, Data Strategy, Big Data, Cloud Computing`
 
-Tools/Technologies: SQL, Python, R, Spark, Azure, AWS, TensorFlow, Cassandra, Hadoop, Pig, Hive, Tableau, PowerBI, DevOps, CI/CD 
+Tools/Technologies: `SQL, Python, R, Spark, Azure, AWS, TensorFlow, Cassandra, Hadoop, Pig, Hive, Tableau, PowerBI, DevOps, CI/CD` 
