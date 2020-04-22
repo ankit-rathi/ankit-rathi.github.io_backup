@@ -10,7 +10,7 @@ This github page is an open-source version of [ankitrathi.com](https://www.ankit
 
 - [Why ankit-rathi.github.io?](#Why-ankit-rathigithubio)
 - [My Blog](#My-Blog)
-- [Data & AI Resources](#Data-AI-Resources)
+- [Data & AI Resources](#Data--Ai-Resources)
 - [My Portfolio](#My-Portfolio)
 - [Book Store](#Book-Store)
 - [My Talks](#My-Talks)
