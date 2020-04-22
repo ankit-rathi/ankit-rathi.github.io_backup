@@ -51,7 +51,7 @@ I write blog-posts on various topics of Data & AI field, check my latest posts [
 
 ## Book Store
 - DS/AI Self-Starter Handbook ([NotionPress](https://notionpress.com/read/ds-ai-self-starter-handbook) / [Amazon](https://www.amazon.com/dp/1079189262) / [Kindle](https://www.amazon.com/dp/B07VDJ7PHD))
-- Probability & Statistics for Data Science ([NotionPress](https://notionpress.com/read/probability-statistics-for-data-science) | [Amazon](https://www.amazon.com/dp/1795009047) | [Kindle](https://www.amazon.com/dp/B07N18VT5C))
+- Probability & Statistics for Data Science ([NotionPress](https://notionpress.com/read/probability-statistics-for-data-science) / [Amazon](https://www.amazon.com/dp/1795009047) / [Kindle](https://www.amazon.com/dp/B07N18VT5C))
 
 ## My Talks
 - NSUT 2020 ([GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-AIML-on-Cloud-NSUT.pdf))
