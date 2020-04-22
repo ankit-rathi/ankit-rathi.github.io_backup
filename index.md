@@ -5,6 +5,14 @@ description: An alternate webpage to ankitrathi.com
 title: Welcome to ankit-rathi.github.io
 ---
 
+- [Why to subscribe?](#Why-to-subscribe?)
+- [My Blog](#My-Blog)
+- [Data & AI Resources](#Data-&-AI-Resources)
+- [My Portfolio](#My-Portfolio)
+- [Book Store](#Book-Store)
+- [My Talks](#My-Talks)
+- [About Me](#About-Me)
+
 ## Why to subscribe?
 - Latest updates from Data & AI field
 - Posts on Concepts, Processes & Tools
