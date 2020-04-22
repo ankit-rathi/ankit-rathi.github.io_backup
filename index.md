@@ -8,7 +8,7 @@ title: Welcome to ankit-rathi.github.io
 This github page is an open-source version of [ankitrathi.com](https://www.ankitrathi.com/)
 ![AR_Logo](images/AR_Logo.jpg)
 
-- [Why to subscribe?](#Why-ankit-rathi-github-io)
+- [Why ankit-rathi.github.io?](#Why-ankit-rathigithubio)
 - [My Blog](#My-Blog)
 - [Data & AI Resources](#Data-AI-Resources)
 - [My Portfolio](#My-Portfolio)
