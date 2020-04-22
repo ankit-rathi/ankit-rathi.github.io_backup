@@ -8,7 +8,7 @@ title: Welcome to ankit-rathi.github.io
 This github page is an open-source version of [ankitrathi.com](https://www.ankitrathi.com/)
 ![AR_Logo](images/AR_Logo.jpg)
 
-- [Why to subscribe?](#Why-to-subscribe)
+- [Why to subscribe?](#Why-ankit-rathi-github-io)
 - [My Blog](#My-Blog)
 - [Data & AI Resources](#Data-AI-Resources)
 - [My Portfolio](#My-Portfolio)
@@ -50,14 +50,14 @@ I write blog-posts on various topics of Data & AI field, check my latest posts [
 - Instagram [>>](https://instagram.com/ankitrathi/)
 
 ## Book Store
-- DS/AI Self-Starter Handbook [[NotionPress](https://notionpress.com/read/ds-ai-self-starter-handbook) | [Amazon](https://www.amazon.com/dp/1079189262) | [Kindle](https://www.amazon.com/dp/B07VDJ7PHD)]
-- Probability & Statistics for Data Science [[NotionPress](https://notionpress.com/read/probability-statistics-for-data-science) | [Amazon](https://www.amazon.com/dp/1795009047) | [Kindle](https://www.amazon.com/dp/B07N18VT5C)]
+- DS/AI Self-Starter Handbook ([NotionPress](https://notionpress.com/read/ds-ai-self-starter-handbook) | [Amazon](https://www.amazon.com/dp/1079189262) | [Kindle](https://www.amazon.com/dp/B07VDJ7PHD))
+- Probability & Statistics for Data Science ([NotionPress](https://notionpress.com/read/probability-statistics-for-data-science) | [Amazon](https://www.amazon.com/dp/1795009047) | [Kindle](https://www.amazon.com/dp/B07N18VT5C))
 
 ## My Talks
-- NSUT 2020 [[GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-AIML-on-Cloud-NSUT.pdf)]
-- PyData 2019 [[GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/PyData2019_ML_Opacity.pdf) | [YouTube](https://www.youtube.com/watch?v=bAoJnCeKFZA&)]
-- Kaggle Days 2019 [[GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-KaggleDaysTalk.pdf)]
-- Amity 2019 [[GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-Guest_Lecture_Amity.pdf)]
+- NSUT 2020 ([GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-AIML-on-Cloud-NSUT.pdf)(
+- PyData 2019 ([GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/PyData2019_ML_Opacity.pdf) | [YouTube](https://www.youtube.com/watch?v=bAoJnCeKFZA&))
+- Kaggle Days 2019 ([GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-KaggleDaysTalk.pdf))
+- Amity 2019 ([GitHub](https://github.com/ankitrathi169/AR-Talks/blob/master/ARTalks-Guest_Lecture_Amity.pdf))
 
 ## About Me
 
