@@ -5,6 +5,8 @@ description: An alternate webpage to ankitrathi.com
 title: Welcome to ankit-rathi.github.io
 ---
 
+![AR_Logo](images/AR_Logo.jpg)
+
 - [Why to subscribe?](#Why-to-subscribe)
 - [My Blog](#My-Blog)
 - [Data & AI Resources](#Data-AI-Resources)
