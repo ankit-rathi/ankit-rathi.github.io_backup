@@ -17,11 +17,11 @@ This github page is an open-source version of [ankitrathi.com](https://www.ankit
 - [About Me](#About-Me)
 
 ## Why ankit-rathi.github.io?
-- Latest updates from Data & AI field
-- Posts on Concepts, Processes & Tools
+- Latest blog-posts on Data & AI field
 - Free resources to learn Data & AI
-- Content from ARTalks
-- Excerpts from my previous and upcoming books
+- Link to my portfolio on various platforms
+- Content/presentation from ARTalks
+- Book store to buy my books on discount
 
 ## My Blog
 
