@@ -9,7 +9,7 @@ This github page is an open-source version of [ankitrathi.com](https://www.ankit
 ![AR_Logo](images/AR_Logo.jpg)
 
 - [Why ankit-rathi.github.io?](#Why-ankit-rathigithubio)
-- [My Blog](https://ankit-rathi.github.io/#My-Blog)
+- [My Blog](#My-Blog)
 - [Data & AI Resources](#Data--Ai-Resources)
 - [My Portfolio](#My-Portfolio)
 - [Book Store](#Book-Store)
