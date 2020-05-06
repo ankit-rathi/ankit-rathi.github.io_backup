@@ -10,6 +10,8 @@ title: ankit-rathi.github.io
 description: An alternate to ankitrathi.com
 github_username: ankit-rathi
 
+favicon: images/favicon.ico
+
 include:
   - _pages
 
