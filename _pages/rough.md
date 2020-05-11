@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rough Copy
+title: Rough
 permalink: /rough/
 ---
 
