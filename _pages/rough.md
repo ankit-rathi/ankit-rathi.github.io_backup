@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Rough
+title: Data & AI Platform Guide
 permalink: /rough/
 ---
-
-# Data & AI Platform Guide
 
 ## Preface
 ### About the Author
