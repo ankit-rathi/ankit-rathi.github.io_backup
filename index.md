@@ -17,15 +17,18 @@ This github page is an open-source version of [ankitrathi.com](https://www.ankit
 - [About Me](#About-Me)
 
 ## Why ankit-rathi.github.io?
+- Data & AI through Visual Storytelling
 - Latest blog-posts on Data & AI field
 - Free resources to learn Data & AI
 - Link to my portfolio on various platforms
-- Content/presentation from ARTalks
+- Content/presentation from ARTalks Sessions
 - Book store to buy my books on discount
 
 ## My Blog
 
-I write blog-posts on various topics of Data & AI field, check my latest posts [here](https://ankit-rathi.github.io/data-and-ai/). 
+I narrate Data & AI through Visual Storytelling, check my latest posts: 
+
+### [here](https://ankit-rathi.github.io/data-and-ai/)
 
 ## Data & AI Resources
 - AI for Everyone by Andrew Ng [>>](https://www.deeplearning.ai/ai-for-everyone/)
