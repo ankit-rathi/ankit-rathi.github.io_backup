@@ -18,10 +18,10 @@ This github page is an open-source version of [ankitrathi.com](https://www.ankit
 
 ## Why ankit-rathi.github.io?
 - Data & AI through Visual Storytelling
-- Latest blog-posts on Data & AI field
+- Latest stories of Data & AI field
+- Grab the content on your favorite platform
 - Free resources to learn Data & AI
-- Link to my portfolio on various platforms
-- Content/presentation from ARTalks Sessions
+- Content/deck from ARTalks Sessions
 - Book store to buy my books on discount
 
 ## My Blog
