@@ -4,7 +4,7 @@ title: Rough
 permalink: /rough/
 ---
 
-# A Guide to Data & AI Platform
+# Working on Data & AI Platform
 
 ## Preface
 ### About the Author
