@@ -4,32 +4,53 @@ title: Rough
 permalink: /rough/
 ---
 
-# Becoming a Data Professional
-## Data Scientist, Data Engineer, Data Architect, Data Leader
-## Cloud Engineer, DevOps Engineer, Business Analyst working in Data & AI projects
+# An Ultimate Guide to Become a Data Professional
 
-## Preface
-### About the Author
-### Why This Book
-### Who This Book Is For
-### Roadmap
-### Acknowledgements
+## About The Book
 
-## I Foundation
-### 
-### Framework
-### Concepts
-### Processes
-### Tools
+## Why This Book?
+ - Beginners are Perplexed
+ - Too many resources
+ - Mostly low quality material
+ - No end-to-end view
+ - Money minting courses 
+ - Beginners' FAQs
+ 
+ 
+## Who this book is for?
+Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Data Architect, BI Engineer, UX Designer, Business Analyst, Business Leader, Business Sponsor, Data Leader
 
-## II Framework
-### Navigate
-### Build
-### Launch
-### Excel
-## III Concepts
-## IV Process
-## V Roles
-## V Tools
+## Looking at the Big Picture
 
 
+### AsBuLaEx Framework
+Assess - Build - Launch - Excel
+
+## Assess
+ - What, Why & How Data & AI?
+ - Brief History of Data & AI
+ - Multi-disciplinary field
+ - Various Terminologies
+ - Interconnection
+ - Data Roles
+ - Academics Vs Industry
+ - Limitations & Disadvantages
+ - Current State of Data & AI
+ - Is this Field for You?
+ 
+## Build
+Common Skills
+- Concepts, Process, Tools & Resources
+Role-wise Skills
+- Concepts, Process, Tools & Resources
+
+## Launch
+ - Building Your Portfolio
+ - Networking & Landing the Job
+ 
+## Excel
+- Switching to Data Field
+ - Building & Leading Data Teams
+- Making Career Future-Proof
+
+## Putting It All Together
