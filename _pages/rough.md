@@ -46,12 +46,12 @@ Role-wise Skills
 - Concepts, Process, Tools & Resources
 
 ## Launch
- - Building Your Portfolio
- - Networking & Landing the Job
+- Building Your Portfolio
+- Networking & Landing the Job
  
 ## Excel
 - Switching to Data Field
-- Building & Leading Data Teams
+- Building & Leading Data Teams
 - Making Career Future-Proof
 
 ## Putting It All Together
