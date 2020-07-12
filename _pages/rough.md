@@ -27,20 +27,21 @@ Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Dat
 Assess - Build - Launch - Excel
 
 ## Assess
- - What, Why & How Data & AI?
- - Brief History of Data & AI
- - Multi-disciplinary field
- - Various Terminologies
- - Interconnection
- - Data Roles
- - Academics Vs Industry
- - Limitations & Disadvantages
- - Current State of Data & AI
- - Is this Field for You?
+- What, Why & How Data & AI?
+- Brief History of Data & AI
+- Multi-disciplinary field
+- Various Terminologies
+- Interconnection
+- Data Roles
+- Academics Vs Industry
+- Limitations & Disadvantages
+- Current State of Data & AI
+- Is this Field for You?
  
 ## Build
 Common Skills
 - Concepts, Process, Tools & Resources
+
 Role-wise Skills
 - Concepts, Process, Tools & Resources
 
@@ -50,7 +51,7 @@ Role-wise Skills
  
 ## Excel
 - Switching to Data Field
- - Building & Leading Data Teams
+- Building & Leading Data Teams
 - Making Career Future-Proof
 
 ## Putting It All Together
