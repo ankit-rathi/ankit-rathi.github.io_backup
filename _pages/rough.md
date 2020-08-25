@@ -32,7 +32,7 @@ Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Dat
 
 ### Introduction
 
-#### APCEBED Framework
+#### APCEBEM Framework
 Assess - Prepare - Create - Enforce - Build - Enable - Monitor
 
 ### Assess Data Ecosystem
