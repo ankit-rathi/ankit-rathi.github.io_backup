@@ -4,54 +4,49 @@ title: Rough
 permalink: /rough/
 ---
 
-# An Ultimate Guide to Become a Data Professional
+# Data Intelligence for Business
 
-## About The Book
+## Table of Contents
+ - Why this book?
+ - Who this book is for?
+ - Introduction
+ - Assess Data Maturity
+ - Prepare Data Strategy
+ - Create Data Culture
+ - Enforce Data Governance
+ - Build Data Architecture 
+ - Enable Data Intelligence
+ - Monitor Data Ecosystem
+ - Conclusion
 
 ## Why This Book?
- - Beginners are Perplexed
- - Too many resources
- - Mostly low quality material
- - No end-to-end view
- - Money minting courses 
- - Beginners' FAQs
+ - Failing Data Projects
+ - Huge gap between Strategy & Execution
+ - Different challenges in Data Projects
+ - Different understanding of the Data field
+ - Mismanaged Expectations
  
  
 ## Who this book is for?
-Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Data Architect, BI Engineer, UX Designer, Business Analyst, Business Leader, Business Sponsor, Data Leader
+Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Data Architect, BI Engineer, UX Designer, Business Analyst, Business Leader, Business Sponsor, Data Leader, Data Executives
 
-## Looking at the Big Picture
+## Introduction
 
+### APCEBED Framework
+Assess - Prepare - Create - Enforce - Build - Enable - Monitor
 
-### AsBuLaEx Framework
-Assess - Build - Launch - Excel
+## Assess Data Ecosystem
 
-## Assess
-- What, Why & How Data & AI?
-- Brief History of Data & AI
-- Multi-disciplinary field
-- Various Terminologies
-- Interconnection
-- Data Roles
-- Academics Vs Industry
-- Limitations & Disadvantages
-- Current State of Data & AI
-- Is this Field for You?
- 
-## Build
-Common Skills
-- Concepts, Process, Tools & Resources
+## Prepare Data Strategy
 
-Role-wise Skills
-- Concepts, Process, Tools & Resources
+## Create Data Culture
 
-## Launch
-- Building Your Portfolio
-- Networking & Landing the Job
- 
-## Excel
-- Switching to Data Field
-- Building & Leading Data Teams
-- Making Career Future-Proof
+## Enforce Data Governance
 
-## Putting It All Together
+## Build Data Architecture
+
+## Enable Data Intelligence 
+
+## Monitor Data Ecosystem
+
+## Conclusion
