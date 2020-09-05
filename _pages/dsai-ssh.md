@@ -4,49 +4,19 @@ title: DS/AI Self-Starter Handbook
 permalink: /dsai-ssh/
 ---
 
-## DS/AI Self-Starter Handbook
+## Build Your Own Roadmap
 
 ### Table of Contents
- - Why this book?
- - Who this book is for?
- - Introduction
- - Assess Data Maturity
- - Prepare Data Strategy
- - Create Data Culture
- - Enforce Data Governance
- - Build Data Architecture 
- - Enable Data Intelligence
- - Monitor Data Ecosystem
- - Conclusion
+ - A : About the Author
+ - B : Preface
+ - 1 : Understanding the Big Picture
+ - 2 : Navigating the Landscape
+ - 3 : Working on Building Blocks
+ - 4 : Utilizing the Resources
+ - 5 : Building your Portfolio
+ - 6 : Networking & Landing the Job 
+ - 7 : Making Career Future-Proof
+ - 8 : Putting It All Together
+ - C : Appendix
 
-### Why This Book?
- - Failing Data Projects
- - Huge gap between Strategy & Execution
- - Different challenges in Data Projects
- - Different understanding of the Data field
- - Mismanaged Expectations
- 
- 
-### Who this book is for?
-Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Data Architect, BI Engineer, UX Designer, Business Analyst, Business Leader, Business Sponsor, Data Leader, Data Executives
 
-### Introduction
-
-#### APCEBEM Framework
-Assess - Prepare - Create - Enforce - Build - Enable - Monitor
-
-### Assess Data Ecosystem
-
-### Prepare Data Strategy
-
-### Create Data Culture
-
-### Enforce Data Governance
-
-### Build Data Architecture
-
-### Enable Data Intelligence 
-
-### Monitor Data Ecosystem
-
-### Conclusion
