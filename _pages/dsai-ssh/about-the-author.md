@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About-the-Author
+title: About the Author
 permalink: /dsai-ssh/about-the-author/
 ---
