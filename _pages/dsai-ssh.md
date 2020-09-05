@@ -1,10 +1,12 @@
 ---
 layout: page
-title: DS/AI Self-Starter Handbook
+title: DS/AI-SSH
 permalink: /dsai-ssh/
 ---
 
-## Build Your Own Roadmap
+## DS/AI Self-Starter Handbook
+
+### Build Your Own Roadmap
 
 ### Table of Contents
  - A : About the Author
