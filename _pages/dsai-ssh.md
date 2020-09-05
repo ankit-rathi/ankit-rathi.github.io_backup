@@ -14,8 +14,8 @@ permalink: /dsai-ssh/
  - 3 : Working on Building Blocks
  - 4 : Utilizing the Resources
  - 5 : Building your Portfolio
- - 6 : Networking & Landing the Job 
- - 7 : Making Career Future-Proof
+ - 6 : Networking & Landing the Job
+ - 7 : Making Career Future-Proof
  - 8 : Putting It All Together
  - C : Appendix
 
