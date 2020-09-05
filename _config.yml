@@ -17,7 +17,6 @@ include:
 
 header_pages:
  - _pages/blog.md
- - _pages/rough.md
  - _pages/dsai-ssh.md
  
 # See https://jekyllrb.com/docs/pagination/
