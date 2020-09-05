@@ -4,7 +4,11 @@ title: Preface
 permalink: /dsai-ssh/preface/
 ---
 
-[Table of Contents](https://ankit-rathi.github.io/dsai-ssh/)
+
+
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
+| ------------- | ------------- |------------- |
+
 
 
 It is probably not a secret that data science/artificial intelligence (DS/AI) has become one of the most exciting fields of this age. Although it may seem the buzzword of our time, it is certainly not the hype. This exciting field opens the way to new possibilities and is becoming indispensable to our daily lives. 
@@ -61,4 +65,6 @@ Please not that this book does not cover Data Science & Artificial Intelligence 
 Consider it as a personal coach to launch your career in DS/AI field who gives you enough exposure to the field so that you can yourself prepare a roadmap of your DS/AI journey.
 
 
-[Table of Contents](https://ankit-rathi.github.io/dsai-ssh/)
+
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
+| ------------- | ------------- |------------- |
