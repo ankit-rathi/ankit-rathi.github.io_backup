@@ -4,7 +4,7 @@ title: Making Career Future-Proof
 permalink: /dsai-ssh/making-career-future-proof/
 ---
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/networking-landing-the-job/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/putting-it-all-together/)  |
 
 This chapter talks about how you can make you DS/AI career future proof. Lets first understand, why this is required? So what exactly does it mean to future proof your career?
 
@@ -93,4 +93,4 @@ Stay abreast with industry news to see if it impacts only specific to your compa
 Either way, follow these steps and you’ll ensure your career — both now and in the future — is set up for success, even as technology disruption and automation move in.
 
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/networking-landing-the-job/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/putting-it-all-together/)  |
