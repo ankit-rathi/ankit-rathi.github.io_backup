@@ -4,7 +4,7 @@ title: Building your Portfolio
 permalink: /dsai-ssh/building-your-portfolio/
 ---
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/utilizing-the-resources/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/networking-landing-the-job/)  |
 
 This chapter talks about how you can build your DS/AI portfolio. Lets first understand, why a portfolio is important in DS/AI field?
 
@@ -206,5 +206,4 @@ Building a brand is about giving yourself more opportunities to help and connect
 
 I hope that reading this inspires at least a few of you who want to become a data scientist and want to get better day by day by following the above-mentioned approach.
 
-
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/utilizing-the-resources/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/networking-landing-the-job/)  |
