@@ -6,158 +6,204 @@ permalink: /dsai-ssh/utilizing-the-resources/
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
 
-There are few core skills of every job. To perform that job, you need to be aware of core concepts, you need to be aware of the end to end process and you need to learn how to use related tools to perform that job. Data science in no different job, it has its own core concepts,processes and tools.
+After getting to know DS/AI landscape and its building blocks in previous posts, you may ask which are the resources to refer, how do I know if a book or course is worth to spend time and/or money?
 
-This post covers the core concepts you need to learn, end-to-end process you need to be aware of & important tools you need to master to work as a data scientist.
+This is not an exhaustive list by any means, but it is good enough to keep as your reference. You can build your own list of references once you get more awareness of the field.
 
-![](https://cdn-images-1.medium.com/max/800/1*rhRKmQu9vXKYuzHOftQ05Q.png)
+This post is my attempt to make your task easier. I am listing down major quality resources (mostly free) here and also going to provide you with my view of these resources, which will help you to make an informed decision.
 
-> Please note that this post only outlines the concepts, processes and tools used by data scientists. I will publish the resources (mostly free) for these topics in upcoming post.
+![](https://cdn-images-1.medium.com/max/800/1*Ph24kcZtHvK51Pci0WFHSw.png)
 
+> You need not go through each and every resource mentioned here, I would suggest you build the foundation first using a course or a book and keep other resources for your reference.
 
-### Concepts to learn
+### Books to refer
 
-![](https://cdn-images-1.medium.com/max/800/1*IQdUsr1L1EjjGRJTVxXzlw.png)
+![](https://cdn-images-1.medium.com/max/800/1*KsUJovlo19BEon_wIynWNg.png)
 
-#### Mathematics
+#### Machine Learning with R
 
-Data science contains math — no avoiding that! This section is for learners about basic math they need in order to be successful in almost any data science project/problem. So let's start:
+This is an excellent book for the R starter who wants to apply ML to any kind of project. All the main ML models are presented, as well as different performance metrics, bagging, pruning, tuning, ensembling etc. Easy to scan through, many tips with fully-solved textbook problems. Certainly, a very good starting point if you plan to compete on Kaggle. If you already master both R and ML, this books is obviously not for you.
 
-**Multivariate Calculus**
 
-Calculus is a set of tools for analyzing the relationship between functions and their inputs. In Multivariate Calculus, we can take a function with multiple inputs and determine the influence of each of them separately.
+#### Python Machine Learning
 
-In data science, we try to find the inputs which enable a function to best match the data. The slope or descent describes the rate of change off the output with respect to an input. Determining the influence of each input on the output is also one of the critical tasks. All this requires a solid understanding of Multivariate Calculus.
+This is a fantastic introductory book in machine learning with python. It provides enough background about the theory of each (covered) technique followed by its python code. One nice thing about the book is that it starts implementing Neural Networks from scratch, providing the reader with the chance of truly understanding the key underlying techniques such as back-propagation. Even further, the book presents an efficient (and professional) way of coding in python, the key to data science.
 
-**Linear Algebra**
 
-The word *algebra* comes from the Arabi word “*al-jabr*” which means “*the reunion of broken parts*”. This is the collection of methods deriving unknowns from knowns in mathematics. *Linear Algebra* is the branch that deals with *linear equations* and *linear functions* which are represented through *matrices* and *vectors*. In simpler words, it helps us understand geometric terms such as planes, in higher dimensions, and perform mathematical operations on them. By definition, algebra deals primarily with scalars (one-dimensional entities), but Linear Algebra has vectors and matrices (entities which possess two or more dimensional components) to deal with linear equations and functions.
+#### ISLR
 
-*Linear Algebra* is central to almost all areas of mathematics like *geometry* and *functional analysis*. Its concepts are a crucial prerequisite for understanding the theory behind *Data Science*. You don’t need to understand *Linear Algebra* before getting started in *Data Science*, but at some point, you may want to gain a better understanding of how the *different algorithms* really work under the hood. So if you really want to be a professional in this field, you will have to master the parts of *Linear Algebra* that are important for *Data Science*.
+The book explains the concepts of Statistical Learning from the very beginning. The core ideas such as bias-variance trade-off are deeply discussed and revisited in many problems. The included R examples are particularly helpful for beginners to learn R. The book also provides a brief, but concise description of functions’ parameters for many related R packages. Compared to *The Elements of Statistical Learning*, it is easy for the reader to understand. It does a wonderful job of breaking things down complex concepts. If one wishes to learn more about a particular topic, I’d recommend The Element of Statistical Learning. These two pair nicely together.
 
-**Statistics & Probability**
 
-*Statistics* is a mathematical body of science that pertains to the *collection*, *analysis*, *interpretation* or *explanation*, and *presentation* of data. Probability is the chance that something will happen — how likely it is that some event will happen.
+#### Deep Learning
 
-Statistics help you to understand your data and is an initial & very important step of Data Science. This is due to the fact that Data Science is all about making predictions and you can’t predict if you can’t understand the patterns in existing data.
+This is the book to read on deep learning. Written by luminaries in the field — if you’ve read any papers on deep learning, you must have heard about Goodfellow and Bengio before — and cutting through much of the BS surrounding the topic: like ‘big data’ before it, ‘deep learning’ is not something new and is not deserving of a special name. Networks with more hidden layers to detect higher-order features, networks of different types chained together in order to play to their strengths, graphs of networks to represent a probabilistic model.
 
-Uncertainty and randomness occur in many aspects of our daily life and having a good knowledge of probability help us make sense of these uncertainties. Learning about probability helps us make informed judgments on what is likely to happen, based on a pattern of data collected previously or an estimate.
+This is a theoretical book, but it can be read in tandem with *Hands-On Machine Learning with Scikit-Learn and TensorFlow*, almost chapter-for-chapter. The Scikit-Learn and Tensorflow example code, while only moderately interesting on its own, helps to clarify the purpose of many of the topics in the Goodfellow book.
 
-Data science often uses statistical inferences to predict or analyze trends from data, while statistical inferences use probability distributions of data. Hence knowing probability & statistics and its applications are important to work effectively on data science problems.
+#### Hands-On Machine Learning with Scikit-Learn and TensorFlow
 
-#### Programming
+This book provides a great introduction to machine learning for both developer and non-developers. Authors suggest to just go through even if you don’t understand math details. Highlights of this book are:
 
-To execute the DS/AI pipeline, you need to learn algorithm design as well as fundamental programming concepts such as data selection, iteration and functional decomposition, data abstraction and organisation. In addition to this, you need to learn how to perform simple data visualizations using programming and embed your learning using problem-based assignments.
+-   Extraction of field expert knowledge is very important, you should know which model will serve better for the given solution. Luckily, a lot of models are available already from other scientists.
+-   Training data is the most important part, the more you have it the better. So if you can you should accumulate as much data as you can, preferably categorized, you may not still know how you will apply the accumulated data in the future but you will need it.
+-   Labelling training data is very important too, to train neural network you need to have at least thousands of labelled data samples, the more the better.
+-   Machine learning algorithms and neural networks are pretty common for years but the latest breakthrough is possible because of new optimization, new autoencoders ( that may help to artificially generate training data) allowing to do training faster and with fewer data.
+-   Machine learning is still pretty time and resources consuming process. To train a machine learning model you need to know how to tweak parameters and how to use different training approaches fitting the particular model.
 
-#### Machine Learning Algorithms
+The book demonstrates (including the code) different approaches using Scikit-Learn python package and also the TensorFlow.
 
-Machine learning algorithms can be divided into 3 broad categories —
+#### Data Science for Business
 
--   Supervised learning,
--   Unsupervised learning
--   Reinforcement learning.
+This is probably the most practical book to read if you are looking for an overview of data science. Either you know when terms like k-means and ROC curves are to be used or you have some context when you start digging deeper into how some of these algorithms are implemented. You will find it at the right level because there is just enough math to explain the fundamental concepts and make them stick in your head.
 
-Supervised learning is useful in cases where a property (*label*) is available for a certain dataset (*training set*) but is missing and needs to be predicted for other instances. Unsupervised learning is useful in cases where the challenge is to discover implicit relationships in a given *unlabeled* dataset (items are not pre-assigned). Reinforcement learning falls between these 2 extremes — there is some form of feedback available for each predictive step or action, but no precise label or error message.
+This isn’t a book on implementing these concepts or a bunch of algorithms. This gives the book the advantage of being something you can refer to an intelligent manager or interested developer, and they can both get a lot out of it. And if they are interested in the next level of learning there are plenty of pointers. You will also find the chapter on presenting results through ROC curves, lift curves, etc. pretty interesting. It would be cool if this book had some more hands-on, but you can go to Kaggle and browse around the current and past competitions to apply what you learn here.
 
-> Intrinsic details of various algorithms is not in scope of this series, you can refer the resources mentioned in the next post to learn them.
 
-Supervised learning can be further divided into Regression (Linear, Non-linear etc) & Classification (Logistics Regression, Decision Tree, Naïve Bayes etc) algorithms. Some algorithms can be used for regression as well as classification i.e. Random Forests, Support Vector Machines etc.
+### Courses to attend
 
-Unsupervised learning can also be further divided into Clustering, Anomaly Detection, Associative Mining.
+![](https://cdn-images-1.medium.com/max/800/1*Fnr5qOz0l3Iv94uDmiKAgg.png)
 
-Reinforcement learning is an area of machine learning concerned with how software agents ought to take actions in an environment so as to maximize some notion of cumulative reward.
+#### Machine Learning
 
-#### Deep Learning Frameworks
+![](https://cdn-images-1.medium.com/max/800/1*kXMhOBDVRMz1Yw23eW5oSQ.png)
 
-Deep learning frameworks are a more advanced form of ML and solve specific problems where data is either unstructured or huge or both. Neural Nets, CNNs, RNNs & LSTM, GANs are the frameworks one needs to be aware of.
 
+Machine Learning is one of the first programming MOOCs. Coursera put online by Coursera founder and Stanford Professor Andrew Ng. This course assumes that you have basic programming skills and you have some understanding of Linear Algebra. Knowledge of Statistics & Probability is not required though.
 
-#### Domain Knowledge
+Andrew Ng does a good job explaining dense material and slides. The course gives you a lot of structure and direction for each homework, so it is generally pretty clear what you are supposed to do and how you are supposed to do it.
 
-This lack of domain knowledge, while perfectly understandable, can be a major barrier to data scientists. For one thing, it’s difficult to come up with project ideas in a domain that you don’t know much about. It can also be difficult to determine the type of data that may be helpful for a project — if you want to build a model to predict an outcome, you need to know what types of variables might be related to this outcome so you can make sure to gather the right data.
+#### Deep Learning
 
-Knowing the domain is useful not only for figuring out projects and how to approach them but also for having rules of thumb for sanity checks on the data. Knowing how data is captured (is it hand-entered? Is it from machines that can give false readings for any number of reasons?) can help a data scientist with data cleaning and from going too far down the wrong path. It can also inform what true outliers are and which values might just be due to measurement error.
+![](https://cdn-images-1.medium.com/max/800/1*B-YNpNbYhL7H3aV3FGJJhQ.png)
 
-Often the most challenging part of building a machine learning model is feature engineering. Understanding variables and how they relate to an outcome is extremely important for this. Knowing the domain can help direct the data exploration and greatly speed (and enhance) the feature engineering process.
+When you are rather new to the topic, you can learn a lot of doing the [deeplearning.ai](https://www.deeplearning.ai/) specialization. First and foremost, you learn the basic concepts of NN. How does a forward pass in simple sequential models look like, what’s a backpropagation, and so on? I experienced this set of courses as a very time-effective way to learn the basics and worth more than all the tutorials, blog posts and talks, which I went through beforehand.
 
-Once features are generated, knowing what relationships between variables are plausible help for basic sanity checks. Being able to glance at the outcome of a model and determine if they make sense goes a long way for quality assurance of any analytical work.
+Doing this specialization is probably more than the first step into DL. I would say, each course is a single step in the right direction, so you end up with five steps in total. I think it builds a fundamental understanding of the field. But going further, you have to practice a lot and eventually it might be useful also to read more about the methodological background of DL variants. But doing the course work gets you started in a structured manner — which is worth a lot, especially in a field with so much buzz around it.
 
-> Finally, one of the biggest reasons a strong understanding of the data is important is because you have to interpret the results of analyses and modeling work.
+#### Fast AI
 
-Knowing what results are important and which are trivial is important for the presentation and communication of results. It’s also important to know what results are actionable.
+![](https://cdn-images-1.medium.com/max/800/1*_zl5CsOf1wKVc5rf3nJtAQ.png)
 
-### Process to follow
+If your goal is to be able to learn about deep learning and apply what you’ve learned, the fast.ai course is a better bet. If you have the time, interleaving the deeplearning.ai and fast.ai courses is ideal — you get the practical experience, applicability, and audience interaction of fast.ai, along with the organised material and theoretical explanations of deeplearning.ai.
 
-![](https://cdn-images-1.medium.com/max/800/1*TPtwP0mAlx6JGjSiJCy18g.png)
+#### Kaggle Learn
 
-#### Problem Definition
+![](https://cdn-images-1.medium.com/max/800/1*adt-vqwPcEbKqno-X-j54w.png)
 
-The first thing you have to do before you solve a problem is to define exactly what it is. You need to be able to translate data questions into something actionable.
+Practical data skills you can apply immediately: that’s what you’ll learn in these free micro-courses. They’re the fastest (and most fun) way to become a data scientist or improve your current skills.
 
-You’ll often get ambiguous inputs from the people who have problems. You’ll have to develop the intuition to turn scarce inputs into actionable outputs–and to ask the questions that nobody else is asking.
 
-#### Data Collection
+### Blogs to follow
 
-Once you’ve defined the problem, you’ll need data to give you the insights needed to turn the problem around with a solution. This part of the process involves thinking through what data you’ll need and finding ways to get that data, whether it’s querying internal databases, or purchasing external data-sets.
+![](https://cdn-images-1.medium.com/max/800/1*DPri3vSeJHubAvNX6qAdwQ.png)
 
-#### Data Understanding
+#### KD Nuggets
 
-The difficulty here isn’t coming up with ideas to test, it’s coming up with ideas that are likely to turn into insights. You’ll have a fixed deadline for your data science project, so you’ll have to prioritize your questions.
+![](https://cdn-images-1.medium.com/max/800/1*PMf_rqIMEq7XmWMVo1DHaA.png)
 
-You’ll have to look at some of the most interesting patterns that can help explain why sales are reduced for this group. You might notice that they don’t tend to be very active on social media, with few of them having Twitter or Facebook accounts. You might also notice that most of them are older than your general audience. From that you can begin to trace patterns you can analyze more deeply.
+KDnuggets is a leading site on AI, Analytics, Big Data, Data Mining, Data Science, and Machine Learning and is edited by Gregory Piatetsky-Shapiro and Matthew Mayo. KDnuggets was founded in February of 1997. Before that, Gregory maintained an earlier version of this site, called Knowledge Discovery Mine, at GTE Labs (1994 to 1997).
 
-#### Feature Engineering
+#### Analytics Vidhya
 
-Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. If feature engineering is done correctly, it increases the predictive power of machine learning algorithms by creating features from raw data that help facilitate the machine learning process. Feature Engineering is in fact an art.
+![](https://cdn-images-1.medium.com/max/800/1*xdh0J0cjzco-Fm7-6dEVtA.png)
 
-#### Modelling
+Analytics Vidhya provides a community-based knowledge portal for Analytics and Data Science professionals. The aim of the platform is to become a complete portal serving all knowledge and career needs of Data Science Professionals.
 
-Depending on the type of question that you’re trying to answer, there are many modelling algorithms available. You run the selected algorithm/s on the training data to build the models.
 
-#### Validation
+#### Towards Data Science
 
-Validation is a step used to evaluate the trained model on validation data. You use a series of competing for machine-learning algorithms along with the various associated tuning parameters that are geared toward answering the question of interest with the current data.
+![](https://cdn-images-1.medium.com/max/800/1*D9bFnt-SR_jwTCgdSLR3uA.png)
 
-#### Tuning
+TDS joined Medium’s vibrant community in October 2016. In the beginning, their goal was simply to gather good posts and distribute them to a broader audience. Just a few months later, they were pleased to see that they had a very fast-growing audience and many new contributors.
 
-Tuning an algorithm or machine learning technique can be simply thought of as a process which one goes through in which they optimize the parameters that impact the model in order to enable the algorithm to perform the best.
+Today they are working with more than 10 Editorial Associates to prepare the most exciting content for our audience. They provide customized feedback to our contributors using Medium’s private notes. This allows them to promote their latest articles across social media without the added complexity that they might encounter using another platform.
 
-#### Deployment
 
-After you have a set of models that perform well, you can operationalize them for other applications to consume. Depending on the business requirements, predictions are made either in real-time or on a batch basis. To deploy models, you expose them with an open API interface. The interface enables the model to be easily consumed from various applications.
+### Podcasts to listen
 
-### Tools to master
+![](https://cdn-images-1.medium.com/max/800/1*my3rt5rEZQkm_OBmMbvfDg.png)
 
-![](https://cdn-images-1.medium.com/max/800/1*Y0AVQ5pq0t0NKEec9AXxZQ.png)
+#### Data Hack
 
-> The list mentioned here is not exhaustive, it depends more on what kind of problem you are solving and in what tech stack you are working.
+![](https://cdn-images-1.medium.com/max/800/1*OTjq5-3vC8gk2pQ9W1Ummw.png)
 
-#### SQL
+This is Analytics Vidhya’s exclusive podcast series which will feature top leaders and practitioners in the data science and machine learning industry.
 
-Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. Most relational databases support SQL.
+So in every episode of DataHack Radio, they bring you discussions with one such thought leader in the industry. They have discussions about their journey, their learnings and plenty of other data science-related things.
 
-As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. The skills necessary to be a good data scientist include being able to retrieve and work with data and to do that you need to be well versed in SQL, the standard language for communicating with database systems.
+#### Super Data Science
 
-#### R
+![](https://cdn-images-1.medium.com/max/800/1*11x3RqCGDCkDGENLCx5Haw.png)
 
-R is a programming language and software environment for statistical analysis, graphics representation and reporting. In the world of data science, R is an increasingly popular language for a reason. It was built with statistical manipulation in mind, and there’s an incredible ecosystem of packages for R that let you do amazing things — particularly in data visualization.
+*Kirill Eremenko* is a Data Science coach and lifestyle entrepreneur. The goal of the *Super Data Science* podcast is to bring you the most inspiring Data Scientists and Analysts from around the World to help you build your successful career in Data Science.
 
-#### Python
+Data is growing exponentially and so are salaries of those who work in analytics. This podcast can help you learn how to skyrocket your analytics career. Big Data, visualization, predictive modelling, forecasting, analysis, business processes, statistics, R, Python, SQL programming, tableau, machine learning, Hadoop, databases, data science MBAs, and all the analytics tools and skills that will help you better understand how to crush it in Data Science.
 
-Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is no-doubt the best-suited language for a Data Scientist. It is a free, flexible and powerful open-source language. Python cuts development time in half with its simple and easy to read syntax. With Python, you can perform data manipulation, analysis, and visualization. Python provides powerful libraries for Machine learning applications and other scientific computations.
+#### The O’Reilly Data Show Podcast
 
+![](https://cdn-images-1.medium.com/max/800/1*GsfH3akVSuWLt9qO70zEOQ.png)
 
-#### Tensorflow
+Known as the father of all other data shows, “the O’Reilly Data Show” features Ben Lorica, O’Reilly Media’s chief data scientist. Lorica conducts interviews with other experts about big data and data science current affairs. While it does get technical and may not be the best place for a beginner to start, it provides interesting insights into the future of the data science industry.
 
-Currently, the most famous deep learning library in the world is Google’s TensorFlow. Google product uses machine learning in all of its products to improve the search engine, translation, image captioning or recommendations.
 
-TensorFlow is the best library of all because it is built to be accessible to everyone. Tensorflow library incorporates different API to built at scale deep learning architecture like CNN or RNN. TensorFlow is based on graph computation; it allows the developer to visualize the construction of the neural network with Tensorboad. This tool is helpful to debug the program. Finally, Tensorflow is built to be deployed at scale. It runs on CPU and GPU.
+### YouTube Channels
 
-#### Keras
+![](https://cdn-images-1.medium.com/max/800/1*-mzvQ--w0193VMdl2p_6lg.png)
 
-Keras is a high-level neural networks API, capable of running on top of Tensorflow, Theano, and CNTK. It enables fast experimentation through a high level, user-friendly, modular and extensible API.
+#### DeepLearning.TV
 
-Keras allows for easy and fast prototyping (through user-friendliness, modularity, and extensibility). It supports both convolutional networks and recurrent networks, as well as combinations of the two. It runs seamlessly on CPU and GPU.
+![](https://cdn-images-1.medium.com/max/800/1*1GzebE9h8WVANeeInTXLYQ.png)
+
+DeepLearning.TV is all about Deep Learning, the field of study that teaches machines to perceive the world. Starting with a series that simplifies Deep Learning, the channel features topics such as How To’s, reviews of software libraries and applications, and interviews with key individuals in the field. Through a series of concept videos showcasing the intuition behind every Deep Learning method, they show you that Deep Learning is actually simpler than you think. Their goal is to improve your understanding of the topic so that you can better utilize Deep Learning in your own projects. They provide a window into the cutting edge of Deep Learning and bring you up to speed on what’s currently happening in the field.
+
+
+#### Data School
+
+![](https://cdn-images-1.medium.com/max/800/1*ZLzNOlp1xjnha90gVqG5Ng.png)
+
+Are you trying to learn data science so that you can get your first data science job? You’re probably confused about what you’re “supposed” to learn, and then you have the hardest time actually finding lessons you can understand! Data School focuses you on the topics you need to master first, and offers in-depth tutorials that you can understand regardless of your educational background.
+
+Your host here is Kevin Markham, and he is the founder of Data School. He has taught data science using the Python programming language to hundreds of students in the classroom, and hundreds of thousands of students (like you) online. Finding the right teacher was so important to his data science education, and so he sincerely hopes that he can be the right data science teacher for you.
+
+
+#### Caltech Machine Learning
+
+![](https://cdn-images-1.medium.com/max/800/1*o0eLbvhc-GFtU8nfbaolGQ.png)
+
+This is an introductory course by Caltech Professor *Yaser Abu-Mostafa* on machine learning that covers the basic theory, algorithms, and applications. Machine learning (ML) enables computational systems to adaptively improve their performance with experience accumulated from the observed data. ML techniques are widely applied in engineering, science, finance, and commerce to build systems for which we do not have a full mathematical specification (and that covers a lot of systems). The course balances theory and practice and covers the mathematical as well as the heuristic aspects.
+
+
+### GitHub Repos
+
+![](https://cdn-images-1.medium.com/max/800/1*jiAe0f6Cv7psXiFOmtr8DQ.png)
+
+#### Awesome Data Science
+
+![](https://cdn-images-1.medium.com/max/800/1*cbw3xVbl67tXq9rCdrDhkQ.png)
+
+This Repo answer the questions, “What is Data Science and what should you study to learn Data Science?” An awesome Data Science repository to learn and apply for real-world problems.
+
+As the aggregator says, “Our favourite data scientist is Clare Corthell. She is an expert in data-related systems and a hacker and has been working on a company as a data scientist. Clare’s blog. This website helps you to understand the exact way to study as a professional data scientist.”
+
+“Secondly, Our favourite programming language is *Python* nowadays for Data Science. Python’s — Pandas library has full functionality for collecting and analyzing data. We use Anaconda to play with data and to create applications.”
+
+
+#### Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
+
+![](https://cdn-images-1.medium.com/max/800/1*rJfSC9RVIKJS4GzizmMp2Q.png)
+
+Machine learning is complex. For newbies, starting to learn machine learning can be painful if they don’t have the right resources to learn from. Most of the machine learning libraries are difficult to understand and the learning curve can be a bit frustrating. Kailash Ahirwar has created a repository on Github ([cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)) containing cheatsheets for different machine learning frameworks, gathered from different sources. Have a look at the Github repository, also, contribute cheat sheets if you have any. Thanks.
+
+#### HackerMath for Machine Learning
+
+![](https://cdn-images-1.medium.com/max/800/1*qOEVgyamB11p5sYwfhBcKg.png)
+
+Math literacy, including proficiency in Linear Algebra and Statistics, is a must for anyone pursuing a career in data science. The goal of this workshop is to introduce some key concepts from these domains that get used repeatedly in data science applications.
+
+As outlined by Amit Kapoor, “Our approach is what we call the ‘Hacker’s way’. Instead of going back to formulae and proofs, we teach the concepts by writing code. And in practical applications. Concepts don’t remain sticky if the usage is never taught.”
+
+The focus here is on depth rather than breadth. Three areas are chosen — Hypothesis Testing, Supervised Learning and Unsupervised Learning. They are covered to sufficient depth — 50% of the time on the concepts and 50% of the time spent coding them.
 
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
