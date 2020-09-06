@@ -7,8 +7,7 @@ permalink: /rough/
 ## Data Intelligence for Business
 
 ### Table of Contents
- - Why this book?
- - Who this book is for?
+ - Preface
  - Introduction
  - Assess Data Maturity
  - Prepare Data Strategy
