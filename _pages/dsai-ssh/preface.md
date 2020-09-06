@@ -42,7 +42,20 @@ My answer to the above question is this book.
 
 # What this book covers?
 
-This series is organized into 8 chapters: 
+On an abstract level, it looks fairly simple, overall process can be divided into four logical phases: Navigate, Build, Launch & Maintain.
+
+![](https://cdn-images-1.medium.com/max/800/0*Q_1NZAPT4QWNZ6B5)
+
+**Navigate** is the very first phase of your DS/AI journey, where you need to understand the overall landscape before diving deep. This step covers Q1 & Q2.
+
+**Build** phase covers all the concepts, processes, tools you need to learn and the resources you need to refer to gain required knowledge. This step responses Q3 & Q4.
+
+**Launch** is the phase where you build your portfolio, network with like-minded professionals and start looking for job. This step elaborates from Q5 to Q9.
+
+**Maintain** phase details out how you can stay up to date in this ever-evolving field. This step answers Q10.
+
+
+This book is organized into 8 chapters covering above mentioned framework end-to-end: 
 
 Chapter 1 covers the high-level approach to how you can build your road-map to learn data science & build a career in it.
 
@@ -61,7 +74,6 @@ Looks interesting? Stay tuned to read the upcoming post as soon as it is publish
 Please not that this book does not cover Data Science & Artificial Intelligence concepts.
 
 Consider it as a personal coach to launch your career in DS/AI field who gives you enough exposure to the field so that you can yourself prepare a roadmap of your DS/AI journey.
-
 
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
