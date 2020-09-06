@@ -4,7 +4,7 @@ title: Putting It All Together
 permalink: /dsai-ssh/putting-it-all-together/
 ---
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/making-career-future-proof/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/appendix/)  |
 
 Now that you have covered each and everything from the content perspective. Let's reflect on what you have learnt and after that, I will give you few tips to overcome some learning obstacles.
 
@@ -78,6 +78,4 @@ Post that we learned how to build an impressive portfolio. How we can start buil
 
 I believe all the content provided in this series is helpful to you. If you liked (or not) the content, I would ask you to provide your feedback to me.
 
-
-
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/making-career-future-proof/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/appendix/)  |
