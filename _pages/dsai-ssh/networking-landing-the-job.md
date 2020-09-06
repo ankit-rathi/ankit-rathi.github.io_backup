@@ -4,7 +4,7 @@ title: Networking & Landing the Job
 permalink: /dsai-ssh/networking-landing-the-job/
 ---
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/building-your-portfolio/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/making-career-future-proof/)  |
 
 So you have done all your homework, you traverse through the DS/AI landscape, you built required concepts and learnt relevant tools and you have started working on your portfolio as well.
 
@@ -187,4 +187,4 @@ You will almost inevitably get rejected in some job interviews, maybe dozens of 
 You can ask for feedback, but know that many hiring managers would not be able to give you any because they want to avoid the possibility of being sued. While it is okay to take a little time to wallow, just don’t lash out in public or to the hiring manager. It won’t help the situation, but it will hurt your professional reputation.
 
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/building-your-portfolio/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/making-career-future-proof/)  |
