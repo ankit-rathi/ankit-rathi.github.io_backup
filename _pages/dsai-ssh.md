@@ -8,6 +8,14 @@ permalink: /dsai-ssh/
 
 ### Build Your Own Roadmap
 
+![](https://cdn-images-1.medium.com/max/600/0*kGlovcFk-1A0H9m1)
+
+While I am covering the content as an ebook here, if you are looking for everything at one place in a structured way, I have published in form of a book:
+
+Notion Press (India): <https://notionpress.com/read/DS-AI-Self-Starter-Handbook>
+
+Amazon (Outside): <https://www.amazon.com/dp/1079189262>
+
 ### Table of Contents
  - A : [About the Author](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)
  - B : [Preface](https://ankit-rathi.github.io/dsai-ssh/preface/)
