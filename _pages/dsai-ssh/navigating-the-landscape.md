@@ -4,7 +4,7 @@ title: Navigating the Landscape
 permalink: /dsai-ssh/navigating-the-landscape/
 ---
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/working-on-building-blocks/)  |
 
 DS/AI is a complex and evolving field. The first challenge a DS/AI aspirant faces is understanding the landscape and how he could navigate through it. Consider this, if you are travelling to a new city, and if you don’t have the map, you will have trouble to navigate the city and you will need to ask a lot of random people during your travel without knowing how much they know about the place. Similarly, all the newcomers to data science have this trouble, and there are two ways to deal with this, arrange the map (or a guide) or travel yourself and learn with experience.
 
@@ -142,4 +142,4 @@ Further, companies are often hesitant to hire people coming straight from academ
 -   Salary expectations for advanced degree holders are higher than someone with only an undergraduate degree. This also pushes away recruiters as the industry works in a different way, culture is simply different than the academic one. People coming from academia need to learn these lessons at their first job, which means that there is a lot of risk for the hiring company.
 
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/working-on-building-blocks/)  |
