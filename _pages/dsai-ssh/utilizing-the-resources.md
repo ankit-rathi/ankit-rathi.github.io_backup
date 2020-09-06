@@ -14,9 +14,6 @@ This post covers the core concepts you need to learn, end-to-end process you nee
 
 > Please note that this post only outlines the concepts, processes and tools used by data scientists. I will publish the resources (mostly free) for these topics in upcoming post.
 
-*Still, if you want to build a quick understanding you can refer the following post:*
-
-\[embed\]https://medium.com/data-deft/data-science-the-complete-reference-series-3fb35077fc5a\[/embed\]
 
 ### Concepts to learn
 
@@ -74,7 +71,6 @@ Reinforcement learning is an area of machine learning concerned with how softwar
 
 Deep learning frameworks are a more advanced form of ML and solve specific problems where data is either unstructured or huge or both. Neural Nets, CNNs, RNNs & LSTM, GANs are the frameworks one needs to be aware of.
 
-\[embed\]https://medium.com/data-deft/data-science-the-complete-reference-series-3fb35077fc5a\[/embed\]
 
 #### Domain Knowledge
 
@@ -142,19 +138,14 @@ Structured Query Language (SQL) is a standard computer language for relational d
 
 As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. The skills necessary to be a good data scientist include being able to retrieve and work with data and to do that you need to be well versed in SQL, the standard language for communicating with database systems.
 
-\[embed\]https://medium.com/data-deft/data-science-the-complete-reference-series-3fb35077fc5a\[/embed\]
-
 #### R
 
 R is a programming language and software environment for statistical analysis, graphics representation and reporting. In the world of data science, R is an increasingly popular language for a reason. It was built with statistical manipulation in mind, and there’s an incredible ecosystem of packages for R that let you do amazing things — particularly in data visualization.
-
-\[embed\]https://medium.com/data-deft/data-science-the-complete-reference-series-3fb35077fc5a\[/embed\]
 
 #### Python
 
 Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is no-doubt the best-suited language for a Data Scientist. It is a free, flexible and powerful open-source language. Python cuts development time in half with its simple and easy to read syntax. With Python, you can perform data manipulation, analysis, and visualization. Python provides powerful libraries for Machine learning applications and other scientific computations.
 
-\[embed\]https://medium.com/data-deft/data-science-the-complete-reference-series-3fb35077fc5a\[/embed\]
 
 #### Tensorflow
 
@@ -162,16 +153,11 @@ Currently, the most famous deep learning library in the world is Google’s Tens
 
 TensorFlow is the best library of all because it is built to be accessible to everyone. Tensorflow library incorporates different API to built at scale deep learning architecture like CNN or RNN. TensorFlow is based on graph computation; it allows the developer to visualize the construction of the neural network with Tensorboad. This tool is helpful to debug the program. Finally, Tensorflow is built to be deployed at scale. It runs on CPU and GPU.
 
-\[embed\]https://medium.com/data-deft/data-science-the-complete-reference-series-3fb35077fc5a\[/embed\]
-
 #### Keras
 
 Keras is a high-level neural networks API, capable of running on top of Tensorflow, Theano, and CNTK. It enables fast experimentation through a high level, user-friendly, modular and extensible API.
 
 Keras allows for easy and fast prototyping (through user-friendliness, modularity, and extensibility). It supports both convolutional networks and recurrent networks, as well as combinations of the two. It runs seamlessly on CPU and GPU.
-
-\[embed\]https://medium.com/data-deft/data-science-the-complete-reference-series-3fb35077fc5a\[/embed\]
-
 
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
