@@ -4,7 +4,7 @@ title: Utilizing the Resources
 permalink: /dsai-ssh/utilizing-the-resources/
 ---
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/working-on-building-blocks/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/building-your-portfolio/)  |
 
 After getting to know DS/AI landscape and its building blocks in previous posts, you may ask which are the resources to refer, how do I know if a book or course is worth to spend time and/or money?
 
@@ -206,4 +206,4 @@ As outlined by Amit Kapoor, “Our approach is what we call the ‘Hacker’s wa
 The focus here is on depth rather than breadth. Three areas are chosen — Hypothesis Testing, Supervised Learning and Unsupervised Learning. They are covered to sufficient depth — 50% of the time on the concepts and 50% of the time spent coding them.
 
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/working-on-building-blocks/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/building-your-portfolio/)  |
