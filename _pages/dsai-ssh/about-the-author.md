@@ -5,7 +5,7 @@ permalink: /dsai-ssh/about-the-author/
 ---
 
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/preface/)  |
+| [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/preface/)  |
 
 
 
@@ -20,5 +20,5 @@ Please note that all views & opinions expressed in this book are his own and not
 U0.1: LinkedIn Profile: [https://www.linkedin.com/in/ankitrathi](https://www.linkedin.com/in/ankitrathi)
 
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/preface/)  |
+| [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/preface/)  |
 
