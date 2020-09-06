@@ -6,6 +6,8 @@ permalink: /rough/
 
 ## Data Intelligence for Business
 
+### A Framework To Make The Most Of Your Data
+
 ### Table of Contents
  - Preface
  - Introduction
