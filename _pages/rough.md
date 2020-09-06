@@ -6,7 +6,7 @@ permalink: /rough/
 
 ## Data Intelligence for Business
 
-### A Framework To Make The Most Of Your Data
+### A Framework To Make The Most Of Your Business Data
 
 ### Table of Contents
  - Preface
@@ -19,8 +19,10 @@ permalink: /rough/
  - Enable Data Intelligence
  - Monitor Data Ecosystem
  - Conclusion
+ 
+# Preface
 
-### Why This Book?
+## Why This Book?
  - Failing Data Projects
  - Huge gap between Strategy & Execution
  - Different challenges in Data Projects
@@ -28,26 +30,26 @@ permalink: /rough/
  - Mismanaged Expectations
  
  
-### Who this book is for?
+## Who this book is for?
 Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Data Architect, BI Engineer, UX Designer, Business Analyst, Business Leader, Business Sponsor, Data Leader, Data Executives
 
-### Introduction
+# Introduction
 
-#### APCEBEM Framework
+## APCEBEM Framework
 Assess - Prepare - Create - Enforce - Build - Enable - Monitor
 
-### Assess Data Ecosystem
+# Assess Data Maturity
 
-### Prepare Data Strategy
+# Prepare Data Strategy
 
-### Create Data Culture
+# Create Data Culture
 
-### Enforce Data Governance
+# Enforce Data Governance
 
-### Build Data Architecture
+# Build Data Architecture
 
-### Enable Data Intelligence 
+# Enable Data Intelligence 
 
-### Monitor Data Ecosystem
+# Monitor Data Ecosystem
 
-### Conclusion
+# Conclusion
