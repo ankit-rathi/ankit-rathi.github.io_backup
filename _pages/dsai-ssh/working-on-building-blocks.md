@@ -4,7 +4,7 @@ title: Working on Building Blocks
 permalink: /dsai-ssh/working-on-building-blocks/
 ---
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/utilizing-the-resources/)  |
 
 There are few core skills of every job. To perform that job, you need to be aware of core concepts, you need to be aware of the end to end process and you need to learn how to use related tools to perform that job. Data science in no different job, it has its own core concepts,processes and tools.
 
@@ -161,4 +161,4 @@ Keras allows for easy and fast prototyping (through user-friendliness, modularit
 
 
 
-| [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
+| [Previous](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/utilizing-the-resources/)  |
