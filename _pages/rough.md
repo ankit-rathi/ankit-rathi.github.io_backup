@@ -38,17 +38,19 @@ Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Dat
 ### APCEBEM Framework
 Assess - Prepare - Create - Enforce - Build - Enable - Monitor
 
+## Enable Data Intelligence 
+
 ## Assess Data Maturity
+Data Strategy, Data Culture, Data Intelligence, Data Ecosystem, Data Governance
 
 ## Prepare Data Strategy
 
 ## Create Data Culture
-
-## Enforce Data Governance
+Data Accessibility
 
 ## Build Data Architecture
 
-## Enable Data Intelligence 
+## Enforce Data Governance
 
 ## Monitor Data Ecosystem
 
