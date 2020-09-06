@@ -13,8 +13,8 @@ permalink: /rough/
  - Prepare Data Strategy
  - Create Data Culture
  - Enforce Data Governance
- - Build Data Architecture 
- - Enable Data Intelligence
+ - Build Data Architecture
+ - Enable Data Intelligence
  - Monitor Data Ecosystem
  - Conclusion
 
