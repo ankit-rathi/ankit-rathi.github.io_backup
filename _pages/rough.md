@@ -35,13 +35,17 @@ Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Dat
 
 ## Introduction
 
-### APCEBEM Framework
-Assess - Prepare - Create - Enforce - Build - Enable - Monitor
+### APBM Framework
+Assess - Prepare - Build - Monitor
 
 ## Enable Data Intelligence 
 
 ## Assess Data Maturity
 Data Strategy, Data Culture, Data Intelligence, Data Ecosystem, Data Governance
+
+Manual Processing --> Reports & Dashboards --> Data Storytelling --> Data Intelligence --> Data-Driven Organization
+
+Reference: https://towardsdatascience.com/how-to-measure-your-organizations-data-maturity-2352cbaf1896
 
 ## Prepare Data Strategy
 
