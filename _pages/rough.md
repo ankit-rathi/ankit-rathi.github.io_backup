@@ -47,15 +47,21 @@ Reference: https://towardsdatascience.com/how-to-measure-your-organizations-data
 
 ## Prepare Data Strategy
 
+Quick Wins --> Customer Experience --> Products & Services --> Operations --> Decisions --> Data Products
+
 ## Create Data Culture
-Data Accessibility
+Data Literacy --> Data Accessibility
 
 ## Build Data Architecture
 
+Ingest --> Prepare --> Process --> Analyse --> Communicate
+
 ## Enable Data Intelligence 
 
-## Deploy Data Ecosystem
+Discover --> Prepare --> Build --> Deploy
 
 ## Enforce Data Governance
+
+Data Catalog --> Data Quality
 
 ## Conclusion
