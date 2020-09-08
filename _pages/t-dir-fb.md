@@ -19,8 +19,8 @@ permalink: /t-dir-fb/
  - Create Data Culture
  - Enforce Data Governance
  - Build Data Architecture
- - Enable Data Intelligence
- - Monitor Data Ecosystem
+ - Assemble Data Ecosystem
+ - Enforce Data Governance
  - Conclusion
  
 ## Preface
@@ -34,7 +34,7 @@ permalink: /t-dir-fb/
  
  
 ### Who this book is for?
-Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Data Architect, BI Engineer, UX Designer, Business Analyst, Business Leader, Business Sponsor, Data Leader, Data Executives
+Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Data Architect, BI Engineer, UX Designer, Business Analyst, Business Leader, Business Sponsor, Data Leader, Data Executive
 
 ## Introduction
 
@@ -42,33 +42,103 @@ Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Dat
 
 Assess - Prepare - Build - Deploy
 
+### Assess
+
+### Prepare
+
+### Build 
+
+### Deploy
+
 ## Assess Data Maturity
 
-Data Strategy, Data Culture, Data Intelligence, Data Ecosystem, Data Governance
+Data Strategy, Data Culture, Data Architecture, Data Intelligence, Data Governance
 
 Manual Processing --> Reports & Dashboards --> Data Storytelling --> Data Intelligence --> Data-Driven Organization
+
+### Manual Processing
+
+### Reports & Dashboards
+
+### Data Stortelling
+
+### Data Intelligence
+
+### Data Driven Organization
 
 Reference: https://towardsdatascience.com/how-to-measure-your-organizations-data-maturity-2352cbaf1896
 
 ## Prepare Data Strategy
 
-Quick Wins --> Customer Experience --> Products & Services --> Operations --> Decisions --> Data Products
+Quick Wins --> Customers --> Products & Services --> Operations --> Decisions --> Data Products
+
+### Quick Wins
+
+### Customers
+
+### Products & Services
+
+### Operations
+
+### Decisions
+
+### Data Products
 
 ## Create Data Culture
 
-Data Literacy --> Data Accessibility --> Maintain Granularity --> Encourage Collaboration --> Quantify Uncertainty --> POCs --> Explore Options
+Data Literacy --> Data Accessibility --> Maintain Granularity --> Encourage Collaboration --> Quantify Uncertainty --> POCs --> Option Analysis
+
+### Data Literacy
+
+### Data Accessibility
+
+### Maintain Granularity
+
+### Encourage Collaboration
+
+### POCs
+
+### Option Analysis
 
 ## Build Data Architecture
 
 Ingest --> Prepare --> Process --> Analyse --> Communicate
 
-## Enable Data Intelligence 
+### Ingest
+
+### Prepare
+
+### Process
+
+### Analyse
+
+### Communicate
+
+## Assemble Data Ecosystem 
 
 Discover Data --> Prepare Data --> Build Models --> Deploy Models
+
+### Discover Data
+
+### Prepare Data
+
+### Build Models
+
+### Deploy Models
 
 ## Enforce Data Governance
 
 Data Catalog --> Data Quality --> Data Regulations --> Data Security --> Data Lineage
+
+### Data Catalog
+
+### Data Quality
+
+### Data Regulations
+
+### Data Security
+
+### Data Lineage
 
 ## Conclusion
 
