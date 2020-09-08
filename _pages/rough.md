@@ -6,7 +6,7 @@ permalink: /rough/
 
 ## The Data Intelligence Roadmap for Business
 
-### A Framework To Make The Most Of Your Business Data
+### Make The Most Of Your Business Data Step-by-step
 
 ### Table of Contents
  - Preface
