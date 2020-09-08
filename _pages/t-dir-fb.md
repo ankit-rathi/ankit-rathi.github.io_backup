@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rough
-permalink: /rough/
+title: tDIRfB
+permalink: /t-dir-fb/
 ---
 
 ## The Data Intelligence Roadmap for Business
