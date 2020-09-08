@@ -54,8 +54,8 @@ Data Accessibility
 
 ## Enable Data Intelligence 
 
-## Enforce Data Governance
+## Deploy Data Ecosystem
 
-## Monitor Data Ecosystem
+## Enforce Data Governance
 
 ## Conclusion
