@@ -12,9 +12,11 @@ permalink: /dsai-ssh/
 
 While I am covering the content as an ebook here, if you are looking for everything at one place in a structured way, I have published in form of a book:
 
-Notion Press (India): <https://notionpress.com/read/DS-AI-Self-Starter-Handbook>
+Amazon (Kindle): <https://www.amazon.com/dp/B07VDJ7PHD/>
 
-Amazon (Outside): <https://www.amazon.com/dp/1079189262>
+Notion Press (India): <https://notionpress.com/read/DS-AI-Self-Starter-Handbook/>
+
+Amazon (Outside): <https://www.amazon.com/dp/1079189262/>
 
 ### Table of Contents
  - A : [About the Author](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)
