@@ -12,18 +12,18 @@ permalink: /t-dir-fb/
 ![](https://cdn-images-1.medium.com/max/1200/1*lIfEMcE5QOMifGFHMToFGA.png)
 
 ### Table of Contents
- - Preface
- - Introduction
- - Assess Data Maturity
- - Prepare Data Strategy
- - Create Data Culture
- - Enforce Data Governance
- - Build Data Architecture
- - Assemble Data Ecosystem
- - Enforce Data Governance
- - Conclusion
+ - A: Preface
+ - 1: Introduction
+ - 2: Assess Data Maturity
+ - 3: Prepare Data Strategy
+ - 4: Create Data Culture
+ - 5: Build Data Architecture
+ - 6: Assemble Data Ecosystem
+ - 7: Enforce Data Governance
+ - 8: Conclusion
+ - B: Appendix
  
-## Preface
+## A: Preface
 
 ### Why This Book?
  - Failing Data Projects
@@ -36,7 +36,7 @@ permalink: /t-dir-fb/
 ### Who this book is for?
 Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Data Architect, BI Engineer, UX Designer, Business Analyst, Business Leader, Business Sponsor, Data Leader, Data Executive
 
-## Introduction
+## 1: Introduction
 
 ### APBD Framework 
 
@@ -50,7 +50,7 @@ Assess - Prepare - Build - Deploy
 
 ### Deploy
 
-## Assess Data Maturity
+## 2: Assess Data Maturity
 
 Data Strategy, Data Culture, Data Architecture, Data Intelligence, Data Governance
 
@@ -68,7 +68,7 @@ Manual Processing --> Reports & Dashboards --> Data Storytelling --> Data Intell
 
 Reference: https://towardsdatascience.com/how-to-measure-your-organizations-data-maturity-2352cbaf1896
 
-## Prepare Data Strategy
+## 3: Prepare Data Strategy
 
 Quick Wins --> Customers --> Products & Services --> Operations --> Decisions --> Data Products
 
@@ -84,7 +84,7 @@ Quick Wins --> Customers --> Products & Services --> Operations --> Decisions --
 
 ### Data Products
 
-## Create Data Culture
+## 4: Create Data Culture
 
 Data Literacy --> Data Accessibility --> Maintain Granularity --> Encourage Collaboration --> Quantify Uncertainty --> POCs --> Option Analysis
 
@@ -100,7 +100,7 @@ Data Literacy --> Data Accessibility --> Maintain Granularity --> Encourage Coll
 
 ### Option Analysis
 
-## Build Data Architecture
+## 5: Build Data Architecture
 
 Ingest --> Prepare --> Process --> Analyse --> Communicate
 
@@ -114,7 +114,7 @@ Ingest --> Prepare --> Process --> Analyse --> Communicate
 
 ### Communicate
 
-## Assemble Data Ecosystem 
+## 6: Assemble Data Ecosystem 
 
 Discover Data --> Prepare Data --> Build Models --> Deploy Models
 
@@ -126,7 +126,7 @@ Discover Data --> Prepare Data --> Build Models --> Deploy Models
 
 ### Deploy Models
 
-## Enforce Data Governance
+## 7: Enforce Data Governance
 
 Data Catalog --> Data Quality --> Data Regulations --> Data Security --> Data Lineage
 
@@ -140,8 +140,10 @@ Data Catalog --> Data Quality --> Data Regulations --> Data Security --> Data Li
 
 ### Data Lineage
 
-## Conclusion
+## 8: Conclusion
 
 ### APBD Framework 
 
 Assess - Prepare - Build - Deploy
+
+## B: Appendix
