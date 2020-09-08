@@ -8,6 +8,9 @@ permalink: /t-dir-fb/
 
 ### Make The Most Of Your Business Data Step-by-step
 
+
+![](https://cdn-images-1.medium.com/max/1200/1*lIfEMcE5QOMifGFHMToFGA.png)
+
 ### Table of Contents
  - Preface
  - Introduction
