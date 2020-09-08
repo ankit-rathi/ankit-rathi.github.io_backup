@@ -4,7 +4,7 @@ title: Rough
 permalink: /rough/
 ---
 
-## Data Intelligence for Business
+## The Data Intelligence Roadmap for Business
 
 ### A Framework To Make The Most Of Your Business Data
 
@@ -35,10 +35,8 @@ Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Dat
 
 ## Introduction
 
-### APBM Framework
-Assess - Prepare - Build - Monitor
-
-## Enable Data Intelligence 
+### APBD Framework
+Assess - Prepare - Build - Deploy
 
 ## Assess Data Maturity
 Data Strategy, Data Culture, Data Intelligence, Data Ecosystem, Data Governance
@@ -53,6 +51,8 @@ Reference: https://towardsdatascience.com/how-to-measure-your-organizations-data
 Data Accessibility
 
 ## Build Data Architecture
+
+## Enable Data Intelligence 
 
 ## Enforce Data Governance
 
