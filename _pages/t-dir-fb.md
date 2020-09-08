@@ -38,10 +38,12 @@ Data Scientist, Data Engineer, ML Engineer, Cloud Engineer, DevOps Engineer, Dat
 
 ## Introduction
 
-### APBD Framework
+### APBD Framework 
+
 Assess - Prepare - Build - Deploy
 
 ## Assess Data Maturity
+
 Data Strategy, Data Culture, Data Intelligence, Data Ecosystem, Data Governance
 
 Manual Processing --> Reports & Dashboards --> Data Storytelling --> Data Intelligence --> Data-Driven Organization
@@ -53,7 +55,8 @@ Reference: https://towardsdatascience.com/how-to-measure-your-organizations-data
 Quick Wins --> Customer Experience --> Products & Services --> Operations --> Decisions --> Data Products
 
 ## Create Data Culture
-Data Literacy --> Data Accessibility
+
+Data Literacy --> Data Accessibility --> Maintain Granularity --> Encourage Collaboration --> Quantify Uncertainty --> POCs --> Explore Options
 
 ## Build Data Architecture
 
@@ -61,10 +64,14 @@ Ingest --> Prepare --> Process --> Analyse --> Communicate
 
 ## Enable Data Intelligence 
 
-Discover --> Prepare --> Build --> Deploy
+Discover Data --> Prepare Data --> Build Models --> Deploy Models
 
 ## Enforce Data Governance
 
-Data Catalog --> Data Quality
+Data Catalog --> Data Quality --> Data Regulations --> Data Security --> Data Lineage
 
 ## Conclusion
+
+### APBD Framework 
+
+Assess - Prepare - Build - Deploy
