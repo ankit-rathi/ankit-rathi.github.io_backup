@@ -19,7 +19,7 @@ Please note that all views & opinions expressed in this book are his own and not
 
 U0.1: LinkedIn Profile: [https://www.linkedin.com/in/ankitrathi](https://www.linkedin.com/in/ankitrathi)
 
-U0.2: Data Intelligence Blog: [https://ankit-rathi.github.io/data-and-ai/](https://ankit-rathi.github.io/data-and-ai/)
+U0.2: Data Intelligence Blog: [https://ankit-rathi.github.io/blog/](https://ankit-rathi.github.io/blog/)
 
 U0.3: Personal Website: [https://www.ankitrathi.com](https://www.ankitrathi.com)
 
