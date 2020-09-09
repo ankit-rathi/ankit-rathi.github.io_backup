@@ -38,7 +38,7 @@ You can notice that these questions are not conceptual ones and there is no dedi
 
 How about a book or course that gives you enough exposure to the DS/AI field that you can yourself analyze what is needed for you and build your own roadmap? 
 
-> My answer to the above question is this book.
+> My answer to the above questions is this book.
 
 # What this book covers?
 
