@@ -12,7 +12,8 @@ permalink: /t-dir-fb/
 ![](https://cdn-images-1.medium.com/max/1200/1*lIfEMcE5QOMifGFHMToFGA.png)
 
 ### Table of Contents
- - A: Preface
+ - A: About The Author
+ - B: Preface
  - 1: Introduction
  - 2: Assess Data Maturity
  - 3: Prepare Data Strategy
@@ -21,7 +22,7 @@ permalink: /t-dir-fb/
  - 6: Assemble Data Ecosystem
  - 7: Enforce Data Governance
  - 8: Conclusion
- - B: Appendix
+ - C: Appendix
  
 ## A: Preface
 
