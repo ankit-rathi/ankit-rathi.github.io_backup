@@ -5,7 +5,7 @@ permalink: /t-dir-fb/assess-data-maturity/
 ---
 
 
-| [Previous](https://ankit-rathi.github.io/t-dir-fb/about-the-author/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/introduction/)  |
+| [Previous](https://ankit-rathi.github.io/t-dir-fb/introduction/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/prepare-data-strategy/)  |
 
 Data Strategy, Data Culture, Data Architecture, Data Intelligence, Data Governance
 
@@ -25,4 +25,4 @@ Reference: https://towardsdatascience.com/how-to-measure-your-organizations-data
 
 
 
-| [Previous](https://ankit-rathi.github.io/t-dir-fb/about-the-author/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/introduction/)  |
+| [Previous](https://ankit-rathi.github.io/t-dir-fb/introduction/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/prepare-data-strategy/)  |
