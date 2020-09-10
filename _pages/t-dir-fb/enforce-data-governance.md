@@ -4,6 +4,7 @@ title: Enforce Data Governance
 permalink: /t-dir-fb/enforce-data-governance/
 ---
 
+| [Previous](https://ankit-rathi.github.io/t-dir-fb/about-the-author/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/introduction/)  |
 
 Data Catalog --> Data Quality --> Data Regulations --> Data Security --> Data Lineage
 
@@ -16,3 +17,6 @@ Data Catalog --> Data Quality --> Data Regulations --> Data Security --> Data Li
 ### Data Security
 
 ### Data Lineage
+
+
+| [Previous](https://ankit-rathi.github.io/t-dir-fb/about-the-author/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/introduction/)  |
