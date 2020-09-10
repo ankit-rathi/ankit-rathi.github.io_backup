@@ -4,6 +4,8 @@ title: About the Author
 permalink: /t-dir-fb/about-the-author/
 ---
 
+| [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/preface/)  |
+
 Ankit Rathi is a data science architect, published author & well-known speaker. His interest lies primarily in building end to end Data Science applications/products following best practices of Data Engineering and Architecture.
 
 Ankit's work at SITA aero has revolved around building FlightPredictor product & strengthening the CoE capability. Earlier as a Principal Consultant at Genpact HCM, Ankit architected and deployed machine learning pipelines for various clients across different industries like Insurance, F&A. He was previously a Tech Lead at RBS IDC where he designed and developed various data-intensive applications in AML & Mortgages area.
@@ -20,3 +22,5 @@ U0.3: Personal Website: [https://www.ankitrathi.com](https://www.ankitrathi.com)
 
 U0.4: YouTube Channel: [https://www.youtube.com/c/ankitrathicom](https://www.youtube.com/c/ankitrathicom)
 
+
+| [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/preface/)  |
