@@ -4,8 +4,6 @@ title: Preface
 permalink: /t-dir-fb/preface/
 ---
 
-## B: Preface
-
 ### Why This Book?
  - Failing Data Projects
  - Huge gap between Strategy & Execution
