@@ -38,7 +38,7 @@ From a time around when data science field started picking up, every other day I
 
 You can notice that these questions are not conceptual ones and there is no dedicated material to address these roadblocks.
 
-How about a book or course that gives you enough exposure to the DS/AI field that you can yourself analyze what is needed for you and build your own roadmap? 
+How about a book or course that gives you enough exposure to the data intelligence field that you can yourself analyze what is needed for you and build your own roadmap? 
 
 > My answer to the above questions is this book.
 
@@ -48,7 +48,7 @@ On an abstract level, it looks fairly simple, overall process can be divided int
 
 ![](https://cdn-images-1.medium.com/max/800/0*Q_1NZAPT4QWNZ6B5)
 
-**Navigate** is the very first phase of your DS/AI journey, where you need to understand the overall landscape before diving deep. This step covers Q1 & Q2.
+**Navigate** is the very first phase of your data intelligence journey, where you need to understand the overall landscape before diving deep. This step covers Q1 & Q2.
 
 **Build** phase covers all the concepts, processes, tools you need to learn and the resources you need to refer to gain required knowledge. This step responses Q3 & Q4.
 
@@ -67,7 +67,7 @@ Chapter 8 guides on how to continue from here, keep yourself updated and remain 
 
 # Who this book is for?
 
-This series can be useful for a variety of readers, but I wrote it with two main target audiences in mind. One of these target audiences is university students learning about DS/AI field, including those who are starting a career in data science and artificial intelligence. The other target audience is professionals working in other fields, who do not have a data science, statistics or programming background but want to rapidly acquire one and expand their career.
+This series can be useful for a variety of readers, but I wrote it with two main target audiences in mind. One of these target audiences is university students learning about data intelligence field, including those who are starting a career in data science and artificial intelligence. The other target audience is professionals working in other fields, who do not have a data science, statistics or programming background but want to rapidly acquire one and expand their career.
 
 There is no assumption or prerequisites for a reader to cover before reading this series. 
 
@@ -75,7 +75,7 @@ Looks interesting? Stay tuned to read the upcoming post as soon as it is publish
 
 > Please note that this book does not cover data intelligence concepts.
 
-Consider it as a personal coach to launch your career in DS/AI field who gives you enough exposure to the field so that you can yourself prepare a roadmap of your DS/AI journey.
+Consider it as a personal coach to launch your career in data intelligence field who gives you enough exposure to the field so that you can yourself prepare a roadmap of your data intelligence journey.
 
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
