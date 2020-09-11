@@ -9,9 +9,11 @@ permalink: /dsai-ssh/preface/
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/about-the-author/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  |
 
 
-It is probably not a secret that data science/artificial intelligence (DS/AI) has become one of the most exciting fields of this age. Although it may seem the buzzword of our time, it is certainly not the hype. This exciting field opens the way to new possibilities and is becoming indispensable to our daily lives. 
+It is probably not a secret that data intelligence has become one of the most exciting fields of this age. Although it may seem the buzzword of our time, it is certainly not the hype. This exciting field opens the way to new possibilities and is becoming indispensable to our daily lives. 
 
-Organizations, big or small, are heavily investing in DS/AI research and applications these days. And hence, it has become the hottest career. If you want to become a DS/AI practitioner, there is no better time than this. 
+Organizations, big or small, are heavily investing in data intelligence research and applications these days. And hence, it has become the hottest career. If you want to become a data intelligence practitioner, there is no better time than this. 
+
+> The 'Data Intelligence' term in this book represents Data Science(DS), Machine Learning(ML), Artificial Intelligence(AI) fields which are quite closely related but have few differences as well. We will cover those differences in an upcoming chapter.
 
 Aspirants are taking different approaches to get into the field, some are fortunate enough to be put into projects as freshers, but most aspirants are building their capabilities by learning theory and applying them on public data-sets.
 
