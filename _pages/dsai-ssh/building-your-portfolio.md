@@ -6,11 +6,11 @@ permalink: /dsai-ssh/building-your-portfolio/
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/utilizing-the-resources/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/networking-landing-the-job/)  |
 
-This chapter talks about how you can build your DS/AI portfolio. Lets first understand, why a portfolio is important in DS/AI field?
+This chapter talks about how you can build your data intelligence portfolio. Lets first understand, why a portfolio is important in data intelligence field?
 
 > Besides the benefit of learning by making a portfolio, a portfolio is important as it can help get you employment.
 
-For the purpose of this article, let’s define a portfolio as public evidence of your DS/AI skills.
+For the purpose of this article, let’s define a portfolio as public evidence of your data intelligence skills.
 
 People often forget that software engineers and data scientists also google their issues. If these same people have their problems solved by reading your public work, they might think better of you and reach out to you.
 
@@ -20,9 +20,9 @@ People often forget that software engineers and data scientists also google thei
 
 ![](https://cdn-images-1.medium.com/max/800/1*yGA78sxcDywPV76yj8hGXA.png)
 
-> You can gain more DS/AI skills by working on prediction problems rather than getting stuck in endless learning loop.
+> You can gain more data intelligence skills by working on prediction problems rather than getting stuck in endless learning loop.
 
-But you will not get a project to work on from day one of your learning. Still, there are platforms where you can apply and learn DS/AI.
+But you will not get a project to work on from day one of your learning. Still, there are platforms where you can apply and learn data intelligence.
 
 #### UCI ML
 
