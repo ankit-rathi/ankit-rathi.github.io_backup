@@ -12,7 +12,7 @@ When you start learning a new skill, the first thing is to look at the big pictu
 
 > In my view, to understand the big picture, ask yourself ‘why’ more often and start with the end in your mind.
 
-The following analogy is not particularly about DS/AI but in general.
+The following analogy is not particularly about data intelligence but in general.
 
 Job — Interview — Network — Portfolio — Core skills — Resources — Awareness
 
@@ -22,7 +22,7 @@ As you can see above, to land the job you want you to need to crack the intervie
 
 Now, reverse the order and assess at what stage you are and fill the gap in the coming months to build your career.
 
-Based on the above approach, this post gives you a holistic view of what you need to know and do to build your road-map in DS/AI field.
+Based on the above approach, this post gives you a holistic view of what you need to know and do to build your road-map in data intelligence field.
 
 > In upcoming sections, you will get to know about these steps and their details are covered in subsequent posts of the blog-post series.
 
@@ -32,19 +32,19 @@ Each section represents an upcoming blog-post of this series.
 
 ### Navigating the landscape
 
-Before learning DS/AI, it is very much required that you understand the overall landscape and where all the buzzwords like data science, machine learning, deep learning fit in. In this post, you will learn different terminologies, their meaning and how these are interconnected.
+Before learning data intelligence, it is very much required that you understand the overall landscape and where all the buzzwords like data science, machine learning, deep learning fit in. In this post, you will learn different terminologies, their meaning and how these are interconnected.
 
 ![](https://cdn-images-1.medium.com/max/800/0*BNYaygPpL0nY6UyL)
 
-DS/AI is a vast field, not a single person has all the required knowledge or does all day to day tasks. Due to the variety of skills required in data science projects, specific roles are evolving so that individual can contribute according to their abilities. In this post, you will get to know almost all the DS/AI roles, which will give you a better idea which one suits you.
+Data intelligence is a vast field, not a single person has all the required knowledge or does all day to day tasks. Due to the variety of skills required in data science projects, specific roles are evolving so that individual can contribute according to their abilities. In this post, you will get to know almost all the data intelligence roles, which will give you a better idea which one suits you.
 
 ### Working on building blocks
 
-This is the core part of DS/AI, knowing the concept, process & tools are the most important part of any job. Intrinsic details of the building blocks are not in the scope of this series. This post will make you aware of what is in the scope of DS/AI field and which role need to have what kind of skills.
+This is the core part of data intelligence, knowing the concept, process & tools are the most important part of any job. Intrinsic details of the building blocks are not in the scope of this series. This post will make you aware of what is in the scope of data intelligence field and which role need to have what kind of skills.
 
 ![](https://cdn-images-1.medium.com/max/800/0*0F2CbjX6IQcIrJsi)
 
-After completing this section you will get to know what is in the scope of DS/AI field. You can relate the concepts, process & tools based on the role you think you can fit in. Think of this post as the syllabus of DS/AI field with electives based on your role.
+After completing this section you will get to know what is in the scope of data intelligence field. You can relate the concepts, process & tools based on the role you think you can fit in. Think of this post as the syllabus of data intelligence field with electives based on your role.
 
 ### Utilizing the resources
 
@@ -68,11 +68,11 @@ You know, you have filtered the best-suited role & honed your skill-set & built 
 
 ![](https://cdn-images-1.medium.com/max/800/0*jdY_8JYWBFiV8Z-m)
 
-This post will focus on the steps required to network & land the job in DS/AI field. How to network with like-minded professionals, how to search for relevant job openings, how to prepare & crack DS/AI interviews.
+This post will focus on the steps required to network & land the job in data intelligence field. How to network with like-minded professionals, how to search for relevant job openings, how to prepare & crack data intelligence interviews.
 
 ### Putting it all together
 
-Before diving into the details, in the current post, you are looking at the big picture of what will be covered in this series and how that fits into your learning curve as a DS/AI starter/enthusiast.
+Before diving into the details, in the current post, you are looking at the big picture of what will be covered in this series and how that fits into your learning curve as a data intelligence starter/enthusiast.
 
 ![](https://cdn-images-1.medium.com/max/800/0*5vzhkZLEPxQmtNDi)
 
@@ -80,13 +80,13 @@ After going through each step in detail, just like the current post, this post w
 
 ### Appendix
 
-DS/AI is an evolving field due to ongoing technology disruption. While the core concepts remain the same, tools/technology/frameworks will be changing. Any literature published on DS/AI has to be reviewed at regular interval.
+data intelligence is an evolving field due to ongoing technology disruption. While the core concepts remain the same, tools/technology/frameworks will be changing. Any literature published on data intelligence has to be reviewed at regular interval.
 
 Apart from above, there are few additional topics that I would like to cover in this section like Beginners’ FAQs, Data Scientists interviews.
 
 ![](https://cdn-images-1.medium.com/max/800/0*ScjigSo9nRnUjnyb)
 
-In this section, you will get to know what are the frequently asked questions by DS/AI starters. What current crop of data scientists has done to start their career. How you can continue from here & how to be future-ready in this ever-evolving field.
+In this section, you will get to know what are the frequently asked questions by data intelligence starters. What current crop of data scientists has done to start their career. How you can continue from here & how to be future-ready in this ever-evolving field.
 
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/preface/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/navigating-the-landscape/)  |
