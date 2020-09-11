@@ -6,7 +6,7 @@ permalink: /dsai-ssh/utilizing-the-resources/
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/working-on-building-blocks/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/building-your-portfolio/)  |
 
-After getting to know DS/AI landscape and its building blocks in previous posts, you may ask which are the resources to refer, how do I know if a book or course is worth to spend time and/or money?
+After getting to know data intelligence landscape and its building blocks in previous posts, you may ask which are the resources to refer, how do I know if a book or course is worth to spend time and/or money?
 
 This is not an exhaustive list by any means, but it is good enough to keep as your reference. You can build your own list of references once you get more awareness of the field.
 
