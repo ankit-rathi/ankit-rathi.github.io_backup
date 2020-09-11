@@ -6,7 +6,7 @@ permalink: /dsai-ssh/networking-landing-the-job/
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/building-your-portfolio/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/making-career-future-proof/)  |
 
-So you have done all your homework, you traverse through the DS/AI landscape, you built required concepts and learnt relevant tools and you have started working on your portfolio as well.
+So you have done all your homework, you traverse through the data intelligence landscape, you built required concepts and learnt relevant tools and you have started working on your portfolio as well.
 
 Now its time to network with people, work on your CV/resume, start looking for a job and prepare for the interview.
 
