@@ -47,7 +47,7 @@ Data science often uses statistical inferences to predict or analyze trends from
 
 #### Programming
 
-To execute the DS/AI pipeline, you need to learn algorithm design as well as fundamental programming concepts such as data selection, iteration and functional decomposition, data abstraction and organisation. In addition to this, you need to learn how to perform simple data visualizations using programming and embed your learning using problem-based assignments.
+To execute the data intelligence pipeline, you need to learn algorithm design as well as fundamental programming concepts such as data selection, iteration and functional decomposition, data abstraction and organisation. In addition to this, you need to learn how to perform simple data visualizations using programming and embed your learning using problem-based assignments.
 
 #### Machine Learning Algorithms
 
