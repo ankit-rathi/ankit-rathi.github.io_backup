@@ -6,7 +6,7 @@ permalink: /dsai-ssh/making-career-future-proof/
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/networking-landing-the-job/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/putting-it-all-together/)  |
 
-This chapter talks about how you can make you DS/AI career future proof. Lets first understand, why this is required? So what exactly does it mean to future proof your career?
+This chapter talks about how you can make you data intelligence career future proof. Lets first understand, why this is required? So what exactly does it mean to future proof your career?
 
 > Future proofing your career is simply taking the extra steps to prepare yourself for constant technology disruption, one that’s going to rely heavily on adaptability.
 
