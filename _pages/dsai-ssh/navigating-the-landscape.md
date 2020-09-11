@@ -6,17 +6,17 @@ permalink: /dsai-ssh/navigating-the-landscape/
 
 | [Previous](https://ankit-rathi.github.io/dsai-ssh/understanding-the-big-picture/)  | [Table of Contents](https://ankit-rathi.github.io/dsai-ssh/) | [Next](https://ankit-rathi.github.io/dsai-ssh/working-on-building-blocks/)  |
 
-DS/AI is a complex and evolving field. The first challenge a DS/AI aspirant faces is understanding the landscape and how he could navigate through it. Consider this, if you are travelling to a new city, and if you don’t have the map, you will have trouble to navigate the city and you will need to ask a lot of random people during your travel without knowing how much they know about the place. Similarly, all the newcomers to data science have this trouble, and there are two ways to deal with this, arrange the map (or a guide) or travel yourself and learn with experience.
+Data intelligence is a complex and evolving field. The first challenge a data intelligence aspirant faces is understanding the landscape and how he could navigate through it. Consider this, if you are travelling to a new city, and if you don’t have the map, you will have trouble to navigate the city and you will need to ask a lot of random people during your travel without knowing how much they know about the place. Similarly, all the newcomers to data science have this trouble, and there are two ways to deal with this, arrange the map (or a guide) or travel yourself and learn with experience.
 
 ![](https://cdn-images-1.medium.com/max/800/1*-QGfrm_HeA4eUoCDa46seQ.png)
 
-> This post intends to serve as a map of DS/AI field.
+> This post intends to serve as a map of data intelligence field.
 
-You might have heard data science, machine learning, deep learning, artificial intelligence etc terminology but might not be fully aware of these terms, what to use when and how these topics are interconnected. After going through this post, you should be able to understand what is where in DS/AI field.
+You might have heard data science, machine learning, deep learning, artificial intelligence etc terminology but might not be fully aware of these terms, what to use when and how these topics are interconnected. After going through this post, you should be able to understand what is where in data intelligence field.
 
 ### Multi-disciplinary field
 
-> DS/AI is a multidisciplinary field with sub-fields of study in Math/Statistics, CS/IT & Business/Domain knowledge.
+> Data intelligence is a multidisciplinary field with sub-fields of study in Math/Statistics, CS/IT & Business/Domain knowledge.
 
 Math/Statistics is required to understand the data and relationship between data elements. CS/IT skills are required to process the data to generate insights. And Business or domain knowledge is required to apply above to skills in the context of a business problem.
 
@@ -24,11 +24,11 @@ Math/Statistics is required to understand the data and relationship between data
 
 #### Computer Science/IT
 
-Programming is an essential skill to become a data scientist but one needs not be a hard-core programmer to learn DS/AI. Having familiarity with basic concepts of programming will ease the process of learning data science programming tools like Python/R. These basic concepts of programming should help a candidate get a long way on the journey to pursue a career in DS/AI as it is all about writing efficient code to analyse big data and not being a master of programming. Individuals should learn the basics of programming in Python/R (or any relevant language) before they begin to work on DS/AI problems/projects.
+Programming is an essential skill to become a data scientist but one needs not be a hard-core programmer to learn data intelligence. Having familiarity with basic concepts of programming will ease the process of learning data science programming tools like Python/R. These basic concepts of programming should help a candidate get a long way on the journey to pursue a career in data intelligence as it is all about writing efficient code to analyse big data and not being a master of programming. Individuals should learn the basics of programming in Python/R (or any relevant language) before they begin to work on data intelligence problems/projects.
 
 #### Maths & Statistics
 
-Data science teams have people from diverse backgrounds like chemical engineering, physics, economics, statistics, mathematics, operations research, computer science, etc. You will find many data scientists with a bachelor’s degree in statistics and machine learning but it is not a requirement to learn DS/AI. However, having familiarity with the basic concepts of Math and Statistics like Linear Algebra, Calculus, Probability, etc. is important to learn DS/AI.
+Data science teams have people from diverse backgrounds like chemical engineering, physics, economics, statistics, mathematics, operations research, computer science, etc. You will find many data scientists with a bachelor’s degree in statistics and machine learning but it is not a requirement to learn data intelligence. However, having familiarity with the basic concepts of Math and Statistics like Linear Algebra, Calculus, Probability, etc. is important to learn data intelligence.
 
 #### Domain/Business Knowledge
 
@@ -38,7 +38,7 @@ In my view, one thing to take care while the hiring data scientists is not to gi
 
 ### Various Terminologies
 
-As a DS/AI starter, you will come across many similar terminologies. First thing you need to do is to understand what each term means and where each fits in the bigger picture. Data Science, Business Intelligence, Data Mining, Machine Learning, Deep Learning, Artificial Intelligence; let’s have a look at *Wikipedia* definition for each term & later see how these are interconnected.
+As a data intelligence starter, you will come across many similar terminologies. First thing you need to do is to understand what each term means and where each fits in the bigger picture. Data Science, Business Intelligence, Data Mining, Machine Learning, Deep Learning, Artificial Intelligence; let’s have a look at *Wikipedia* definition for each term & later see how these are interconnected.
 
 ![](https://cdn-images-1.medium.com/max/800/1*oVpUt0bdawGKZyHB2Jwkuw.png)
 
@@ -112,17 +112,17 @@ Data architects build complex computer database systems for companies, either fo
 
 #### Analytics Manager
 
-The data science manager coordinates the different tasks that must be completed by their team for a DS/AI project. Tasks may include researching and creating effective methods to collect data, analyzing information, and recommending solutions to business.
+The data science manager coordinates the different tasks that must be completed by their team for a data intelligence project. Tasks may include researching and creating effective methods to collect data, analyzing information, and recommending solutions to business.
 
 #### Business Analyst
 
-Data science business analyst converts the business problem statement to a DS/AI problem statement which means what data needs to be analyzed to arrive at the insights. The data would then be reviewed with the technology team and results would be delivered to the business team in the form of insights and data patterns. The business analyst should also be knowledgeable enough to apply various predictive modelling techniques and right model selection for generating insights for the problem at hand.
+Data science business analyst converts the business problem statement to a data intelligence problem statement which means what data needs to be analyzed to arrive at the insights. The data would then be reviewed with the technology team and results would be delivered to the business team in the form of insights and data patterns. The business analyst should also be knowledgeable enough to apply various predictive modelling techniques and right model selection for generating insights for the problem at hand.
 
 #### Quality Analyst
 
 The job of quality analyst includes checking the quality of the training data-set, preparing data-sets for testing, running statistics on human-labelled data-sets, evaluating precision and recall on the resulting ML model, reporting on unexpected patterns in outputs, and implementing necessary tools to automate repetitive parts of the work. Experience in software testing with data quality or DS/ML focus, understanding of statistics, exposure to Data Science / Machine Learning techniques and coding proficiency in Python, are some of the skills required for the job.
 
-> To work on DS/AI projects in any of the above mentioned roles, one needs to have an understanding of the core concepts at a high level but depth is required in the specific area you would be working in.
+> To work on data intelligence projects in any of the above mentioned roles, one needs to have an understanding of the core concepts at a high level but depth is required in the specific area you would be working in.
 
 ### Academia Vs Industry
 
@@ -130,7 +130,7 @@ Academia and Industry are different fields with different people and culture. Pe
 
 > There is also an academic trap when your career trajectory is so specialized for academia that you’re unprepared for a job outside of it.
 
-The academic trap happens in all areas of study, but for this post, we focus only on DS/AI students who want to leave academia for data science positions.
+The academic trap happens in all areas of study, but for this post, we focus only on data intelligence students who want to leave academia for data science positions.
 
 ![](https://cdn-images-1.medium.com/max/800/1*4kuZFDcxRstSBgS7vdUFnQ.png)
 
