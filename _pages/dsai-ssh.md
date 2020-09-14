@@ -30,5 +30,9 @@ Amazon (Outside): <https://www.amazon.com/dp/1079189262/>
  - 7 : [Making Career Future-Proof](https://ankit-rathi.github.io/dsai-ssh/making-career-future-proof/)
  - 8 : [Putting It All Together](https://ankit-rathi.github.io/dsai-ssh/putting-it-all-together/)
  - C : [Appendix](https://ankit-rathi.github.io/dsai-ssh/appendix/)
+ 
+ 
+### 2nd edition (coming soon...)
 
+![](https://cdn-images-1.medium.com/max/1200/1*s2cWr1FGanNZCZvUA6plRA.png)
 
