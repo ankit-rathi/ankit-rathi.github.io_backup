@@ -9,17 +9,27 @@ permalink: /t-dir-fb/assess-data-maturity/
 
 How to assess the data maturity of your business?
 
-There are two aspects of the assessment.
+There are three aspects of the assessment.
 
 Let's look at the first aspect:
 
-1. At what stage is your data ecosystem?
+A. Policy
+B. People
+c. Process
+D. Technology
+E. Outcomes
 
-Stage A: Manual Processing –> Stage B: Reports & Dashboards –> Stage C: Data Storytelling –> Stage D: Data Intelligence –> Stage E: Data-Driven Organization
+Reference: http://dmaf.mohua.gov.in/
 
 The second aspect is:
 
-2. What is the status of your data ecosystem components?
+2. At what stage is your data ecosystem?
+
+Stage A: Manual Processing –> Stage B: Reports & Dashboards –> Stage C: Data Storytelling –> Stage D: Data Intelligence –> Stage E: Data-Driven Organization
+
+The third aspect is:
+
+3. What is the status of your data ecosystem components?
 
 A. Is your Data Strategy aligned with Business Strategy?
 
