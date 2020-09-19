@@ -13,13 +13,17 @@ There are three aspects of the assessment.
 
 Let's look at the first aspect:
 
+1. What is the systematic maturity of your data ecosystem?
+
 A. Policy
 B. People
 c. Process
 D. Technology
 E. Outcomes
 
-Reference: http://dmaf.mohua.gov.in/
+Reference: 
+- http://dmaf.mohua.gov.in/
+- http://dmaf.mohua.gov.in/dmaf-cycle1.html
 
 The second aspect is:
 
@@ -41,6 +45,21 @@ D. Are the Data Pipelines deployed?
 
 E. Is there Data Governance in place?
 
+## Systematic Maturity
+
+Policy --> People --> Process --> Technology --> Outcomes
+
+### Policy
+
+### People
+
+### Process
+
+### Technology
+
+### Outcomes
+
+## Stage-wise Maturity
 
 Manual Processing --> Reports & Dashboards --> Data Storytelling --> Data Intelligence --> Data-Driven Organization
 
@@ -56,6 +75,8 @@ Manual Processing --> Reports & Dashboards --> Data Storytelling --> Data Intell
 
 Reference: https://towardsdatascience.com/how-to-measure-your-organizations-data-maturity-2352cbaf1896
 
+## Data Ecosystem Maturity
+
 Data Strategy, Data Culture, Data Architecture, Data Intelligence, Data Governance
 
 ### Data Strategy
@@ -67,7 +88,6 @@ Data Strategy, Data Culture, Data Architecture, Data Intelligence, Data Governan
 ### Data Intelligence
 
 ### Data Governance
-
 
 
 | [Previous](https://ankit-rathi.github.io/t-dir-fb/introduction/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/prepare-data-strategy/)  |
