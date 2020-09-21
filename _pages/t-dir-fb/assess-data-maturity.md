@@ -7,6 +7,15 @@ permalink: /t-dir-fb/assess-data-maturity/
 
 | [Previous](https://ankit-rathi.github.io/t-dir-fb/introduction/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/prepare-data-strategy/)  |
 
+## Systematic Maturity
+
+## Stage-wise Maturity
+
+## Data Ecosystem Maturity
+
+## Data Inteligence Maturity Model
+
+
 How to assess the data maturity of your business?
 
 There are three aspects of the assessment.
@@ -88,6 +97,26 @@ Data Strategy, Data Culture, Data Architecture, Data Intelligence, Data Governan
 ### Data Intelligence
 
 ### Data Governance
+
+
+## Data Inteligence Maturity Model
+
+Strategy --> Governance --> Modeling --> Operations --> Infrastructure --> Security & Compliance
+
+### Data Inteligence Strategy
+
+### Data Inteligence Governance
+
+### Data Inteligence Modeling
+
+### Data Inteligence Operations
+
+### Data Inteligence Infrastructure
+
+### Data Inteligence Security & Compliance
+
+
+Reference: https://www.sciencedirect.com/science/article/pii/S0268401217300026
 
 
 | [Previous](https://ankit-rathi.github.io/t-dir-fb/introduction/) | [Table of Contents](https://ankit-rathi.github.io/t-dir-fb/) | [Next](https://ankit-rathi.github.io/t-dir-fb/prepare-data-strategy/)  |
