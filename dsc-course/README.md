@@ -1,5 +1,7 @@
 This repository captures my new course....
 
+## Data Science Concepts
+
 ### Course Outline
 
 #### [L00 : About The Course](https://ankit-rathi.github.io/dsc-course/L00-DSC-About-The-Course.pdf)
