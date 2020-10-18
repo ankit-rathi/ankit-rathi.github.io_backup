@@ -1,5 +1,3 @@
-## Data Science Concepts
-
 This repository captures my new course....
 
 ### Course Outline
