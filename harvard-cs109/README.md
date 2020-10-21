@@ -10,6 +10,8 @@ repository of lecture slides from Hardvard CS-109 A/B
 
 ## CS 109 B - 2020
 
-### [Lectures (Selected)](https://harvard-iacs.github.io/2019-CS109A/pages/schedule.html)
+### [Lectures (Selected)](https://ankit-rathi.github.io/harvard-cs109/cs109b)
+
+
 
 
