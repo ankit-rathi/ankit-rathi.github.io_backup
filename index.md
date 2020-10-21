@@ -28,7 +28,7 @@ This github page is an open-source version of [ankitrathi.com](https://www.ankit
 
 I narrate Data & AI through Visual Storytelling, check my latest posts: 
 
-### [here](https://ankit-rathi.github.io/data-and-ai/)
+### [here](https://ankit-rathi.github.io/blog/)
 
 ## Data & AI Resources
 - AI for Everyone by Andrew Ng [>>](https://www.deeplearning.ai/ai-for-everyone/)
