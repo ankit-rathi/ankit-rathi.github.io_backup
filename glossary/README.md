@@ -1,5 +1,5 @@
-## Glossary of Data Ecosystem
-### Terms, definitions & links to explore further the field of Data Science, Engineering & Architecture
+### Glossary of Data Ecosystem
+Terms, definitions & links to explore further the field of Data Science, Engineering & Architecture
 
 | Term | Definition |
 | :---: | :---: | 
